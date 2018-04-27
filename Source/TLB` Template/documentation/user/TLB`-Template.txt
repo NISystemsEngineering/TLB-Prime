@@ -1,0 +1,127 @@
+[viPath]
+C:\Users\aryan\Documents\p4\Sales\users\AaronRyan\TLB` 2.0\Asynchronous\dev\1.0\source\TLB`\_TLB` Template\TLB' Template\Change State.vi
+
+[viDescription]
+change UI configuration.
+
+<B>Input Parameters</B>
+
+<B>TLB' Template in</B> identifies your session.  'TLB' Template in' is obtained from the Open.vi of this class.
+
+<B>error in</B> describes error conditions that occur before this node runs. This input provides standard error in functionality.
+
+<B>Output Parameters</B>
+
+<B>TLB' Template out</B> identifies your session.  'TLB' Template out' is obtained from the Open.vi of this class.
+
+<B>error out</B> contains error information. This output provides standard error out functionality.
+
+
+-------------------
+[viPath]
+C:\Users\aryan\Documents\p4\Sales\users\AaronRyan\TLB` 2.0\Asynchronous\dev\1.0\source\TLB`\_TLB` Template\TLB' Template\State Logic.vi
+
+[viDescription]
+control logic for TLB' MAIN process.
+
+<B>Input Parameters</B>
+
+<B>TLB' Template in</B> identifies your session.  'TLB' Template in' is obtained from the Open.vi of this class.
+
+<B>process state logic enable</B> enable state logic change.
+
+<B>trigger queue in</B> trigger queue reference.
+
+<B>amc queue in</B> amc queue reference.
+
+<B>timeout (ms)</B> queue timeout.
+
+<B>error in</B> describes error conditions that occur before this node runs. This input provides standard error in functionality.
+
+<B>Output Parameters</B>
+
+<B>TLB' Template out</B> identifies your session.  'TLB' Template out' is obtained from the Open.vi of this class.
+
+<B>error out</B> contains error information. This output provides standard error out functionality.
+
+
+-------------------
+[viPath]
+C:\Users\aryan\Documents\p4\Sales\users\AaronRyan\TLB` 2.0\Asynchronous\dev\1.0\source\TLB`\_TLB` Template\TLB' Template\support\Serialization\Class to Varient.vi
+
+[viDescription]
+consume class data into a generic variant type.
+
+<B>Input Parameters</B>
+
+<B>station configuration in</B> station parameters container that needs to be populated from disk.
+
+<B>section</B> parameter as part of INI.
+
+<B>data in</B> initialize data in.
+
+<B>error in</B> describes error conditions that occur before this node runs. This input provides standard error in functionality.
+
+<B>Output Parameters</B>
+
+<B>station configuration out</B> station parameters container populated from disk.
+
+<B>data out</B> station configuration placeholders to be populated.
+
+<B>error out</B> contains error information. This output provides standard error out functionality.
+
+
+
+-------------------
+[viPath]
+C:\Users\aryan\Documents\p4\Sales\users\AaronRyan\TLB` 2.0\Asynchronous\dev\1.0\source\TLB`\_TLB` Template\TLB' Template\support\Serialization\From Serial Form.vi
+
+[viDescription]
+popluate station configuration from disk.
+
+<B>Input Parameters</B>
+
+<B>station configuration in</B> station parameters container that needs to be populated from disk.
+
+<B>TLB' Deserializer in</B> identifies your session.  'TLB' Deserializer in' is obtained from the Open.vi of this class.
+
+<B>section in</B> INI section to be processed.
+
+<B>error in</B> describes error conditions that occur before this node runs. This input provides standard error in functionality.
+
+<B>Output Parameters</B>
+
+<B>station configuration out</B> station parameters container populated from disk.
+
+<B>TLB' Deserializer out</B> identifies your session.  'TLB' Deserializer out' is obtained from the Open.vi of this class.
+
+<B>error out</B> contains error information. This output provides standard error out functionality.
+
+
+-------------------
+[viPath]
+C:\Users\aryan\Documents\p4\Sales\users\AaronRyan\TLB` 2.0\Asynchronous\dev\1.0\source\TLB`\_TLB` Template\TLB' Template\support\Serialization\Varient to Class.vi
+
+[viDescription]
+populate generic variant data into station configuration.
+
+<B>Input Parameters</B>
+
+<B>station configuration in</B> station parameters container that needs to be populated from disk.
+
+<B>section</B> parameter as part of INI.
+
+<B>data in</B> populated variant data to be consumed by the class.
+
+<B>error in</B> describes error conditions that occur before this node runs. This input provides standard error in functionality.
+
+<B>Output Parameters</B>
+
+<B>station configuration out</B> station parameters container populated from disk.
+
+<B>data out</B> populated variant data to be consumed by the class.
+
+<B>error out</B> contains error information. This output provides standard error out functionality.
+
+
+-------------------
