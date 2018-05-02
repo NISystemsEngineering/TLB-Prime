@@ -18,5 +18,5 @@
 		<Item Name="System Triggers.ctl" Type="VI" URL="../Components/System Triggers.ctl"/>
 		<Item Name="Copy Library into Project.vi" Type="VI" URL="../Components/Copy Library into Project.vi"/>
 	</Item>
-	<Item Name="MAIN - TLB` Springboard Tool.vi" Type="VI" URL="../../../MAIN - TLB` Springboard Tool.vi"/>
+	<Item Name="MAIN - TLB` Springboard Tool.vi" Type="VI" URL="../MAIN - TLB` Springboard Tool.vi"/>
 </Library>
