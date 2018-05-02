@@ -5,7 +5,7 @@
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Property Name="NI.SortType" Type="Int">3</Property>
-	<Item Name="Dev Components" Type="Folder">
+	<Item Name="Components" Type="Folder">
 		<Item Name="Core" Type="Folder">
 			<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 			<Item Name="SHIFTER.vi" Type="VI" URL="../Components/SHIFTER.vi"/>
