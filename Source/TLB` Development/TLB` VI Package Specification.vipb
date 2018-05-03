@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2017" Created_Date="2012-08-23 13:39:10" Modified_Date="2018-05-02 15:17:13" Creator="nkirchne" Comments="" ID="5f9b290c58c185f6b02691aa5a2129a7">
+<VI_Package_Builder_Settings Version="2017" Created_Date="2012-08-23 13:39:10" Modified_Date="2018-05-03 15:00:59" Creator="nkirchne" Comments="" ID="6ee3506f40e91f3da8a82a8cf8e65a30">
   <Library_General_Settings>
     <Package_File_Name>ni_tool_tlb`</Package_File_Name>
-    <Library_Version>1.3.0.25</Library_Version>
+    <Library_Version>1.3.0.28</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>..</Library_Source_Folder>
     <Library_Output_Folder>..\..\Build</Library_Output_Folder>
@@ -275,7 +275,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
         <Path>..\TLB` Template</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>B19654F3AEB731CE609BF9D626A1DAD5</GUID>
+      <GUID>F9B97F1313FA9D8127A0C80D13773F55</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -324,7 +324,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
         <Path>..\TLB` Examples\QuickVIew</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>EBDAF001AD360C3EB507A7BEEF60A98B</GUID>
+      <GUID>AA42E90BB545330DD0861F0B5D160A8F</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -373,7 +373,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
         <Path>..\TLB` Springboard\MAIN - TLB` Springboard Tool.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>1C1AABFCDED71C4CF6D52655A19546FF</GUID>
+      <GUID>1BE89B9D7944FBB8F72CB84C07AE6EC7</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -436,7 +436,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
         <Path>..\TLB` Template\MAIN - Template Application.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>D10C078709A55BAD9517998A96399E9F</GUID>
+      <GUID>352AFE3C302D5479C10F4B2A5167F9CB</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -499,7 +499,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
         <Path>..\TLB` Examples\Car Wash\MAIN - Template Application.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>344723B6A156EAED09A06BFE82101ACF</GUID>
+      <GUID>061E7A11B4AA49A5687E53B8009E2E5E</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -548,7 +548,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
         <Path>..\TLB` Examples\QuickVIew\MAIN - Quick VIew.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>66F77F010AD3B1D477B3D7F53CDA3F81</GUID>
+      <GUID>9B8DEAB81B9853F82086FE5FDCE18E5A</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>4</Parent_Palette_Index>
@@ -653,7 +653,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
         <Path>..\TLB` Examples\Car Wash\Components\SHIFTER.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>6D2012A303590C29DE791ED4679C260D</GUID>
+      <GUID>2DE5005372382EE30A86EBB36EF70337</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>6</Parent_Palette_Index>
@@ -1290,7 +1290,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
         <Path>..\TLB` Examples\Car Wash\Components\AMC\Verify Dispatcher Queue.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>5180A74F622F7C588123C85D19A56631</GUID>
+      <GUID>9F31473F41024493FC07A0F23C74B09A</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>6</Parent_Palette_Index>
@@ -1381,7 +1381,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
         <Path>..\TLB` Examples\Car Wash\Components\Dependencies.llb\Tool - Get Parent.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>2BABFDC588E726C453F8E0723C406555</GUID>
+      <GUID>8606B56A2F31722847DD2BE4675FDFBD</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>6</Parent_Palette_Index>
@@ -1430,7 +1430,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
         <Path>..\TLB` Examples\Car Wash\Components\Tools\String</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>28A96F52897ED880BA5C400497A157A5</GUID>
+      <GUID>48A288D05B73DD6029A6A7238578CB09</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>9</Parent_Palette_Index>
@@ -1717,7 +1717,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
         <Path>..\TLB` Examples\Car Wash\Components\Tools\Keyed Array\Wildcard Index.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>6FD6DF8197B5A0C0A8562F2564BB1F69</GUID>
+      <GUID>53928819CD81CC73DD9154BE053084DD</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>9</Parent_Palette_Index>
@@ -2130,7 +2130,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
         <Path>..\TLB` Examples\Car Wash\Components\Tools\String\Write Entire File.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>63D586BD262FE1A0F87B52E6DB3D0C3E</GUID>
+      <GUID>CF141945CC385A8526ED3FAED6D9F0D4</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>5</Parent_Palette_Index>
@@ -2235,7 +2235,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
         <Path>..\TLB` Examples\QuickVIew\Components\SHIFTER.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>D14AD8E1081C1D521CB1D277E8915016</GUID>
+      <GUID>BC0AB4A3BE6BAE8E6AC3C99DFB132A93</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>12</Parent_Palette_Index>
@@ -2326,7 +2326,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
         <Path>..\TLB` Examples\QuickVIew\Components\Dependencies.llb\Tool - Get Parent.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>876EAA88638B73D65165CC10579E6926</GUID>
+      <GUID>04AA43DBD373A3572951216C661ED6A6</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>12</Parent_Palette_Index>
@@ -2739,7 +2739,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
         <Path>..\TLB` Examples\QuickVIew\Components\Tree Control\VIG - Element DB.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>DFEA1E6EFF25749935A4089F70BC5DB3</GUID>
+      <GUID>CD9EEB0985A1CC74D0CA7DCC75053B11</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>12</Parent_Palette_Index>
@@ -2816,7 +2816,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
         <Path>..\TLB` Examples\QuickVIew\Components\VI Collection\set Active VIs.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>87474E54396A246908DD7248E28BFC63</GUID>
+      <GUID>8A506CA5571EF40DCA0EC843B410D3C8</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>2</Parent_Palette_Index>
@@ -2879,7 +2879,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
         <Path>..\TLB` Springboard\Components\SHIFTER - TLB` Springboard.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>7C92F9394289383D30B970062DE935D6</GUID>
+      <GUID>77D49671D4A0221D910400020EAE39AF</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>16</Parent_Palette_Index>
@@ -2970,7 +2970,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
         <Path>..\TLB` Springboard\Components\Dependencies.llb\Tool - Get Parent.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>B71E674AE89D82A9394CE16A10D16723</GUID>
+      <GUID>D5F7E6B7858A89DA5234BD395EF88A8F</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>3</Parent_Palette_Index>
@@ -3005,7 +3005,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
         <Path>..\TLB` Template\Builds\My Source Distribution</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>36B2868AB630C4AC44EAFDED1B6DAD97</GUID>
+      <GUID>B8BABC9BDAFAA9E72DA6F76FDC2CAE6E</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>3</Parent_Palette_Index>
@@ -3124,7 +3124,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
         <Path>..\TLB` Template\Components\SHIFTER.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>75D3648A765301B0E771778BB245C5F7</GUID>
+      <GUID>31371FBC6E4AE7FA70E9A91C824E89B1</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>18</Parent_Palette_Index>
@@ -3156,7 +3156,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
           <Column>1</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>..\TLB` Template\Builds\My Source Distribution\Add Queue To Registry.vi</Path>
+        <Path>..\TLB` Examples\Car Wash\Components\AMC\Add Queue To Registry.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -3170,7 +3170,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
           <Column>2</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>..\TLB` Template\Builds\My Source Distribution\Add.vi</Path>
+        <Path>..\TLB` Examples\Car Wash\Components\Tools\Keyed Array\Add.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -3184,7 +3184,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
           <Column>3</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>..\TLB` Template\Builds\My Source Distribution\All Keyed Array VIs.vi</Path>
+        <Path>..\TLB` Examples\Car Wash\Components\Tools\Keyed Array\All Keyed Array VIs.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -3198,7 +3198,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
           <Column>4</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>..\TLB` Template\Builds\My Source Distribution\Append Port to Host String.vi</Path>
+        <Path>..\TLB` Examples\Car Wash\Components\AMC\Append Port to Host String.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -3212,7 +3212,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
           <Column>5</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>..\TLB` Template\Builds\My Source Distribution\Append Port To Source Host.vi</Path>
+        <Path>..\TLB` Examples\Car Wash\Components\AMC\Append Port To Source Host.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -3226,7 +3226,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
           <Column>6</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>..\TLB` Template\Builds\My Source Distribution\Base64 Decode.vi</Path>
+        <Path>..\TLB` Examples\Car Wash\Components\Tools\String\Base64 Decode.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -3240,7 +3240,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
           <Column>1</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>..\TLB` Template\Builds\My Source Distribution\Base64 Encode.vi</Path>
+        <Path>..\TLB` Examples\Car Wash\Components\Tools\String\Base64 Encode.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -3254,7 +3254,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
           <Column>2</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>..\TLB` Template\Builds\My Source Distribution\Buffer Strings.vi</Path>
+        <Path>..\TLB` Examples\Car Wash\Components\Tools\String\Buffer Strings.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -3268,7 +3268,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
           <Column>3</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>..\TLB` Template\Builds\My Source Distribution\Check If Receiver Is Local.vi</Path>
+        <Path>..\TLB` Examples\Car Wash\Components\AMC\Check If Receiver Is Local.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -3282,7 +3282,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
           <Column>4</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>..\TLB` Template\Builds\My Source Distribution\Check Message Queue Status.vi</Path>
+        <Path>..\TLB` Examples\Car Wash\Components\AMC\Check Message Queue Status.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -3296,7 +3296,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
           <Column>5</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>..\TLB` Template\Builds\My Source Distribution\Clear.vi</Path>
+        <Path>..\TLB` Examples\Car Wash\Components\Tools\Keyed Array\Clear.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -3310,7 +3310,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
           <Column>6</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>..\TLB` Template\Builds\My Source Distribution\Close Calling VI's Windows.vi</Path>
+        <Path>..\TLB` Examples\Car Wash\Components\Tools\String\Close Calling VI's Windows.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -3324,7 +3324,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
           <Column>1</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>..\TLB` Template\Builds\My Source Distribution\Combine Transliteration Maps.vi</Path>
+        <Path>..\TLB` Examples\Car Wash\Components\Tools\String\Combine Transliteration Maps.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -3338,7 +3338,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
           <Column>2</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>..\TLB` Template\Builds\My Source Distribution\Contents.vi</Path>
+        <Path>..\TLB` Examples\Car Wash\Components\Tools\Keyed Array\Contents.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -3352,7 +3352,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
           <Column>3</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>..\TLB` Template\Builds\My Source Distribution\Convert from String.vi</Path>
+        <Path>..\TLB` Examples\Car Wash\Components\Tools\Keyed Array\Convert from String.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -3366,7 +3366,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
           <Column>4</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>..\TLB` Template\Builds\My Source Distribution\Convert from XML Children.vi</Path>
+        <Path>..\TLB` Examples\Car Wash\Components\Tools\Keyed Array\Convert from XML Children.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -3380,7 +3380,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
           <Column>5</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>..\TLB` Template\Builds\My Source Distribution\Convert to String.vi</Path>
+        <Path>..\TLB` Examples\Car Wash\Components\Tools\Keyed Array\Convert to String.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -3394,7 +3394,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
           <Column>6</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>..\TLB` Template\Builds\My Source Distribution\Convert to XML Children.vi</Path>
+        <Path>..\TLB` Examples\Car Wash\Components\Tools\Keyed Array\Convert to XML Children.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -3408,7 +3408,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
           <Column>1</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>..\TLB` Template\Builds\My Source Distribution\Create Directory Recursive.vi</Path>
+        <Path>..\TLB` Examples\Car Wash\Components\Tools\String\Create Directory Recursive.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -3422,7 +3422,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
           <Column>2</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>..\TLB` Template\Builds\My Source Distribution\Create Message Queue.vi</Path>
+        <Path>..\TLB` Examples\Car Wash\Components\AMC\Create Message Queue.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -3436,7 +3436,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
           <Column>3</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>..\TLB` Template\Builds\My Source Distribution\Create Message.vi</Path>
+        <Path>..\TLB` Examples\Car Wash\Components\AMC\Create Message.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -3450,7 +3450,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
           <Column>4</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>..\TLB` Template\Builds\My Source Distribution\Create Multiple Messages.vi</Path>
+        <Path>..\TLB` Examples\Car Wash\Components\AMC\Create Multiple Messages.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -3464,7 +3464,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
           <Column>5</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>..\TLB` Template\Builds\My Source Distribution\Create Single Message.vi</Path>
+        <Path>..\TLB` Examples\Car Wash\Components\AMC\Create Single Message.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -3478,7 +3478,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
           <Column>6</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>..\TLB` Template\Builds\My Source Distribution\DeQueue Trigger.vi</Path>
+        <Path>..\TLB` Examples\Car Wash\Components\DeQueue Trigger.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -3492,7 +3492,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
           <Column>1</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>..\TLB` Template\Builds\My Source Distribution\Destroy Message Queue.vi</Path>
+        <Path>..\TLB` Examples\Car Wash\Components\AMC\Destroy Message Queue.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -3506,7 +3506,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
           <Column>2</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>..\TLB` Template\Builds\My Source Distribution\Dispatcher Read and Process UDP Messages.vi</Path>
+        <Path>..\TLB` Examples\Car Wash\Components\AMC\Dispatcher Read and Process UDP Messages.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -3520,7 +3520,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
           <Column>3</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>..\TLB` Template\Builds\My Source Distribution\EnQueue Trigger.vi</Path>
+        <Path>..\TLB` Examples\Car Wash\Components\EnQueue Trigger.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -3534,7 +3534,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
           <Column>4</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>..\TLB` Template\Builds\My Source Distribution\Enum Loop Complete.vi</Path>
+        <Path>..\TLB` Examples\Car Wash\Components\Dependencies.llb\Enum Loop Complete.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -3548,7 +3548,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
           <Column>5</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>..\TLB` Template\Builds\My Source Distribution\Equal.vi</Path>
+        <Path>..\TLB` Examples\Car Wash\Components\Tools\Keyed Array\Equal.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -3562,7 +3562,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
           <Column>6</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>..\TLB` Template\Builds\My Source Distribution\Extract Port From Host String.vi</Path>
+        <Path>..\TLB` Examples\Car Wash\Components\AMC\Extract Port From Host String.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -3576,7 +3576,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
           <Column>1</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>..\TLB` Template\Builds\My Source Distribution\FG Dispatcher Status.vi</Path>
+        <Path>..\TLB` Examples\Car Wash\Components\AMC\FG Dispatcher Status.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -3590,7 +3590,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
           <Column>2</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>..\TLB` Template\Builds\My Source Distribution\Flatten Message To String.vi</Path>
+        <Path>..\TLB` Examples\Car Wash\Components\AMC\Flatten Message To String.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -3604,7 +3604,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
           <Column>3</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>..\TLB` Template\Builds\My Source Distribution\Flush Message Queue.vi</Path>
+        <Path>..\TLB` Examples\Car Wash\Components\AMC\Flush Message Queue.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -3618,7 +3618,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
           <Column>4</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>..\TLB` Template\Builds\My Source Distribution\Generate Error.vi</Path>
+        <Path>..\TLB` Examples\Car Wash\Components\AMC\Generate Error.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -3632,7 +3632,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
           <Column>5</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>..\TLB` Template\Builds\My Source Distribution\Get All Dispatcher Queues.vi</Path>
+        <Path>..\TLB` Examples\Car Wash\Components\AMC\Get All Dispatcher Queues.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -3646,7 +3646,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
           <Column>6</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>..\TLB` Template\Builds\My Source Distribution\Get All Queues From Registry.vi</Path>
+        <Path>..\TLB` Examples\Car Wash\Components\AMC\Get All Queues From Registry.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -3660,7 +3660,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
           <Column>1</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>..\TLB` Template\Builds\My Source Distribution\Get Case Insensitive Search Pattern.vi</Path>
+        <Path>..\TLB` Examples\Car Wash\Components\Tools\String\Get Case Insensitive Search Pattern.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -3674,7 +3674,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
           <Column>2</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>..\TLB` Template\Builds\My Source Distribution\Get Case Matching.vi</Path>
+        <Path>..\TLB` Examples\Car Wash\Components\Tools\String\Get Case Matching.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -3688,7 +3688,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
           <Column>3</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>..\TLB` Template\Builds\My Source Distribution\Get Literal Search Pattern.vi</Path>
+        <Path>..\TLB` Examples\Car Wash\Components\Tools\String\Get Literal Search Pattern.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -3702,7 +3702,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
           <Column>4</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>..\TLB` Template\Builds\My Source Distribution\Get Local Name and IP.vi</Path>
+        <Path>..\TLB` Examples\Car Wash\Components\AMC\Get Local Name and IP.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -3716,7 +3716,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
           <Column>5</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>..\TLB` Template\Builds\My Source Distribution\Get Queue From Registry.vi</Path>
+        <Path>..\TLB` Examples\Car Wash\Components\AMC\Get Queue From Registry.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -3730,7 +3730,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
           <Column>6</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>..\TLB` Template\Builds\My Source Distribution\Get Wildcard Search Pattern.vi</Path>
+        <Path>..\TLB` Examples\Car Wash\Components\Tools\String\Get Wildcard Search Pattern.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -3744,7 +3744,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
           <Column>1</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>..\TLB` Template\Builds\My Source Distribution\Get Wildcard Search Pattern2.vi</Path>
+        <Path>..\TLB` Examples\Car Wash\Components\Tools\String\Get Wildcard Search Pattern2.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -3758,7 +3758,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
           <Column>2</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>..\TLB` Template\Builds\My Source Distribution\Globals.vi</Path>
+        <Path>..\TLB` Examples\Car Wash\Components\AMC\Globals.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -3772,7 +3772,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
           <Column>3</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>..\TLB` Template\Builds\My Source Distribution\GMT Delta.vi</Path>
+        <Path>..\TLB` Examples\Car Wash\Components\Tools\String\GMT Delta.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -3786,7 +3786,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
           <Column>4</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>..\TLB` Template\Builds\My Source Distribution\Index Wildcards.vi</Path>
+        <Path>..\TLB` Examples\Car Wash\Components\Tools\Keyed Array\Index Wildcards.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -3800,7 +3800,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
           <Column>5</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>..\TLB` Template\Builds\My Source Distribution\Index.vi</Path>
+        <Path>..\TLB` Examples\Car Wash\Components\Tools\Keyed Array\Index.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -3814,7 +3814,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
           <Column>6</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>..\TLB` Template\Builds\My Source Distribution\Is Empty.vi</Path>
+        <Path>..\TLB` Examples\Car Wash\Components\Tools\Keyed Array\Is Empty.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -3828,7 +3828,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
           <Column>1</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>..\TLB` Template\Builds\My Source Distribution\Keys.vi</Path>
+        <Path>..\TLB` Examples\Car Wash\Components\Tools\Keyed Array\Keys.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -3842,7 +3842,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
           <Column>2</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>..\TLB` Template\Builds\My Source Distribution\MAIN - Template Application.vi</Path>
+        <Path>..\TLB` Examples\Car Wash\MAIN - Template Application.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -3856,7 +3856,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
           <Column>3</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>..\TLB` Template\Builds\My Source Distribution\Map String.vi</Path>
+        <Path>..\TLB` Examples\Car Wash\Components\Tools\Keyed Array\Map String.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -3870,7 +3870,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
           <Column>4</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>..\TLB` Template\Builds\My Source Distribution\Match Literal Prefix.vi</Path>
+        <Path>..\TLB` Examples\Car Wash\Components\Tools\String\Match Literal Prefix.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -3884,7 +3884,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
           <Column>5</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>..\TLB` Template\Builds\My Source Distribution\Match Literal Substring.vi</Path>
+        <Path>..\TLB` Examples\Car Wash\Components\Tools\String\Match Literal Substring.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -3898,7 +3898,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
           <Column>6</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>..\TLB` Template\Builds\My Source Distribution\Match String with Wildcard Pattern List.vi</Path>
+        <Path>..\TLB` Examples\Car Wash\Components\Tools\String\Match String with Wildcard Pattern List.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -3912,7 +3912,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
           <Column>1</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>..\TLB` Template\Builds\My Source Distribution\Match Wildcard Pattern String List.vi</Path>
+        <Path>..\TLB` Examples\Car Wash\Components\Tools\String\Match Wildcard Pattern String List.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -3926,7 +3926,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
           <Column>2</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>..\TLB` Template\Builds\My Source Distribution\Match Wildcard Prefix.vi</Path>
+        <Path>..\TLB` Examples\Car Wash\Components\Tools\String\Match Wildcard Prefix.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -3940,7 +3940,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
           <Column>3</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>..\TLB` Template\Builds\My Source Distribution\Match Wildcard Substring.vi</Path>
+        <Path>..\TLB` Examples\Car Wash\Components\Tools\String\Match Wildcard Substring.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -3954,7 +3954,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
           <Column>4</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>..\TLB` Template\Builds\My Source Distribution\Merge.vi</Path>
+        <Path>..\TLB` Examples\Car Wash\Components\Tools\Keyed Array\Merge.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -3968,7 +3968,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
           <Column>5</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>..\TLB` Template\Builds\My Source Distribution\New Terminate Event.vi</Path>
+        <Path>..\TLB` Examples\Car Wash\Components\Dependencies.llb\New Terminate Event.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -3982,7 +3982,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
           <Column>6</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>..\TLB` Template\Builds\My Source Distribution\OpnCrtRep File.vi</Path>
+        <Path>..\TLB` Examples\Car Wash\Components\Tools\String\OpnCrtRep File.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -3996,7 +3996,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
           <Column>1</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>..\TLB` Template\Builds\My Source Distribution\Ping All Dispatchers.vi</Path>
+        <Path>..\TLB` Examples\Car Wash\Components\AMC\Ping All Dispatchers.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -4010,7 +4010,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
           <Column>2</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>..\TLB` Template\Builds\My Source Distribution\Ping Dispatcher.vi</Path>
+        <Path>..\TLB` Examples\Car Wash\Components\AMC\Ping Dispatcher.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -4024,7 +4024,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
           <Column>3</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>..\TLB` Template\Builds\My Source Distribution\Preview All Messages.vi</Path>
+        <Path>..\TLB` Examples\Car Wash\Components\AMC\Preview All Messages.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -4038,7 +4038,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
           <Column>4</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>..\TLB` Template\Builds\My Source Distribution\Preview Next Message.vi</Path>
+        <Path>..\TLB` Examples\Car Wash\Components\AMC\Preview Next Message.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -4052,7 +4052,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
           <Column>5</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>..\TLB` Template\Builds\My Source Distribution\Queue Registry.vi</Path>
+        <Path>..\TLB` Examples\Car Wash\Components\AMC\Queue Registry.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -4066,7 +4066,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
           <Column>6</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>..\TLB` Template\Builds\My Source Distribution\Read Entire File.vi</Path>
+        <Path>..\TLB` Examples\Car Wash\Components\Tools\String\Read Entire File.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -4080,7 +4080,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
           <Column>1</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>..\TLB` Template\Builds\My Source Distribution\Read Local Dispatcher Port.vi</Path>
+        <Path>..\TLB` Examples\Car Wash\Components\AMC\Read Local Dispatcher Port.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -4094,7 +4094,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
           <Column>2</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>..\TLB` Template\Builds\My Source Distribution\Read Next Message.vi</Path>
+        <Path>..\TLB` Examples\Car Wash\Components\AMC\Read Next Message.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -4108,7 +4108,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
           <Column>3</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>..\TLB` Template\Builds\My Source Distribution\Read Termination Message.vi</Path>
+        <Path>..\TLB` Examples\Car Wash\Components\AMC\Read Termination Message.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -4122,7 +4122,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
           <Column>4</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>..\TLB` Template\Builds\My Source Distribution\Remap EOLN.vi</Path>
+        <Path>..\TLB` Examples\Car Wash\Components\Tools\String\Remap EOLN.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -4136,7 +4136,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
           <Column>5</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>..\TLB` Template\Builds\My Source Distribution\Remove Empty Keys.vi</Path>
+        <Path>..\TLB` Examples\Car Wash\Components\Tools\Keyed Array\Remove Empty Keys.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -4150,7 +4150,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
           <Column>6</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>..\TLB` Template\Builds\My Source Distribution\Remove.vi</Path>
+        <Path>..\TLB` Examples\Car Wash\Components\Tools\Keyed Array\Remove.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -4164,7 +4164,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
           <Column>1</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>..\TLB` Template\Builds\My Source Distribution\Replace Substring.vi</Path>
+        <Path>..\TLB` Examples\Car Wash\Components\Tools\String\Replace Substring.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -4178,7 +4178,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
           <Column>2</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>..\TLB` Template\Builds\My Source Distribution\RFC-1123 Date.vi</Path>
+        <Path>..\TLB` Examples\Car Wash\Components\Tools\String\RFC-1123 Date.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -4192,7 +4192,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
           <Column>3</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>..\TLB` Template\Builds\My Source Distribution\Send Acknowledge Message.vi</Path>
+        <Path>..\TLB` Examples\Car Wash\Components\AMC\Send Acknowledge Message.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -4206,7 +4206,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
           <Column>4</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>..\TLB` Template\Builds\My Source Distribution\Send Local Message.vi</Path>
+        <Path>..\TLB` Examples\Car Wash\Components\AMC\Send Local Message.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -4220,7 +4220,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
           <Column>5</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>..\TLB` Template\Builds\My Source Distribution\Send Local Messages.vi</Path>
+        <Path>..\TLB` Examples\Car Wash\Components\AMC\Send Local Messages.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -4234,7 +4234,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
           <Column>6</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>..\TLB` Template\Builds\My Source Distribution\Send Message in Local Application.vi</Path>
+        <Path>..\TLB` Examples\Car Wash\Components\AMC\Send Message in Local Application.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -4248,7 +4248,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
           <Column>1</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>..\TLB` Template\Builds\My Source Distribution\Send Message over UDP.vi</Path>
+        <Path>..\TLB` Examples\Car Wash\Components\AMC\Send Message over UDP.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -4262,7 +4262,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
           <Column>2</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>..\TLB` Template\Builds\My Source Distribution\Send Message to Current Process.vi</Path>
+        <Path>..\TLB` Examples\Car Wash\Components\AMC\Send Message to Current Process.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -4276,7 +4276,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
           <Column>3</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>..\TLB` Template\Builds\My Source Distribution\Send Message to Local Process.vi</Path>
+        <Path>..\TLB` Examples\Car Wash\Components\AMC\Send Message to Local Process.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -4290,7 +4290,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
           <Column>4</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>..\TLB` Template\Builds\My Source Distribution\Send Message.vi</Path>
+        <Path>..\TLB` Examples\Car Wash\Components\AMC\Send Message.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -4304,7 +4304,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
           <Column>5</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>..\TLB` Template\Builds\My Source Distribution\Send Network Message.vi</Path>
+        <Path>..\TLB` Examples\Car Wash\Components\AMC\Send Network Message.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -4318,7 +4318,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
           <Column>6</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>..\TLB` Template\Builds\My Source Distribution\SHIFTER.vi</Path>
+        <Path>..\TLB` Examples\Car Wash\Components\SHIFTER.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -4332,7 +4332,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
           <Column>1</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>..\TLB` Template\Builds\My Source Distribution\Split String.vi</Path>
+        <Path>..\TLB` Examples\Car Wash\Components\Tools\String\Split String.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -4346,7 +4346,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
           <Column>2</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>..\TLB` Template\Builds\My Source Distribution\Start Dispatcher.vi</Path>
+        <Path>..\TLB` Examples\Car Wash\Components\AMC\Start Dispatcher.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -4360,7 +4360,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
           <Column>3</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>..\TLB` Template\Builds\My Source Distribution\Stop Dispatcher.vi</Path>
+        <Path>..\TLB` Examples\Car Wash\Components\AMC\Stop Dispatcher.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -4374,7 +4374,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
           <Column>4</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>..\TLB` Template\Builds\My Source Distribution\Sub - window bounds to size.vi</Path>
+        <Path>..\TLB` Examples\Car Wash\Components\Dependencies.llb\Sub - window bounds to size.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -4388,7 +4388,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
           <Column>5</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>..\TLB` Template\Builds\My Source Distribution\Tokenize String (Simple).vi</Path>
+        <Path>..\TLB` Examples\Car Wash\Components\Tools\String\Tokenize String (Simple).vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -4402,7 +4402,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
           <Column>6</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>..\TLB` Template\Builds\My Source Distribution\Tokenize String.vi</Path>
+        <Path>..\TLB` Examples\Car Wash\Components\Tools\String\Tokenize String.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -4416,7 +4416,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
           <Column>1</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>..\TLB` Template\Builds\My Source Distribution\Tool - FP size and position.vi</Path>
+        <Path>..\TLB` Examples\Car Wash\Components\Dependencies.llb\Tool - FP size and position.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -4430,7 +4430,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
           <Column>2</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>..\TLB` Template\Builds\My Source Distribution\Tool - Get Parent.vi</Path>
+        <Path>..\TLB` Examples\Car Wash\Components\Dependencies.llb\Tool - Get Parent.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -4444,7 +4444,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
           <Column>3</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>..\TLB` Template\Builds\My Source Distribution\Transliterate String.vi</Path>
+        <Path>..\TLB` Examples\Car Wash\Components\Tools\String\Transliterate String.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -4458,7 +4458,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
           <Column>4</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>..\TLB` Template\Builds\My Source Distribution\UDP Dispatcher.vi</Path>
+        <Path>..\TLB` Examples\Car Wash\Components\AMC\UDP Dispatcher.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -4472,7 +4472,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
           <Column>5</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>..\TLB` Template\Builds\My Source Distribution\Unflatten String To Message.vi</Path>
+        <Path>..\TLB` Examples\Car Wash\Components\AMC\Unflatten String To Message.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -4486,7 +4486,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
           <Column>6</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>..\TLB` Template\Builds\My Source Distribution\Update Message Routing Info.vi</Path>
+        <Path>..\TLB` Examples\Car Wash\Components\AMC\Update Message Routing Info.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -4500,7 +4500,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
           <Column>1</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>..\TLB` Template\Builds\My Source Distribution\Values.vi</Path>
+        <Path>..\TLB` Examples\Car Wash\Components\Tools\Keyed Array\Values.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -4514,7 +4514,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
           <Column>2</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>..\TLB` Template\Builds\My Source Distribution\Verify Dispatcher Queue.vi</Path>
+        <Path>..\TLB` Examples\Car Wash\Components\AMC\Verify Dispatcher Queue.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -4528,7 +4528,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
           <Column>3</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>..\TLB` Template\Builds\My Source Distribution\Wildcard Index.vi</Path>
+        <Path>..\TLB` Examples\Car Wash\Components\Tools\Keyed Array\Wildcard Index.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -4542,10 +4542,10 @@ TLB` represents the next evolutionary step in developing more robust and elegant
           <Column>4</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>..\TLB` Template\Builds\My Source Distribution\Write Entire File.vi</Path>
+        <Path>..\TLB` Examples\Car Wash\Components\Tools\String\Write Entire File.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>E053F3D80F5C4096CC85C36F36B54B8A</GUID>
+      <GUID>85DAB6F7C57709E74C8233536666BB30</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>19</Parent_Palette_Index>
@@ -5210,7 +5210,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
         <Path>..\TLB` Template\Components\AMC\Verify Dispatcher Queue.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>72574FD3D2D04FBCA7BB6B363E0338F8</GUID>
+      <GUID>0C3E8CC3854CA58F7EA9BF55DBAC6560</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>19</Parent_Palette_Index>
@@ -5301,7 +5301,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
         <Path>..\TLB` Template\Components\Dependencies.llb\Tool - Get Parent.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>4E6DC12DDC1AF3DCEF44F9D90AC7C990</GUID>
+      <GUID>F17F4CAED22ED37C0A808CCD1A5C0688</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>19</Parent_Palette_Index>
@@ -5350,7 +5350,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
         <Path>..\TLB` Template\Components\Tools\String</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>F1F753C00238F086B3D70B26ED2C1A70</GUID>
+      <GUID>FB748D473408DE01D55BC3679E0973BB</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>21</Parent_Palette_Index>
@@ -5665,7 +5665,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
         <Path>..\TLB` Template\Components\AMC\Compatibility\AMC Send Network Message.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>50C402D11E84F35AE6BC4DA55A13703B</GUID>
+      <GUID>633CD096C0ABA47C9D9A9D3A386E875F</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>21</Parent_Palette_Index>
@@ -5700,7 +5700,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
         <Path>..\TLB` Template\Components\AMC\Templates\QMH Template.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>6A7FAC541AE84892964A9E543EAE7464</GUID>
+      <GUID>E71F6F129253045954D774C21B5B34E8</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>23</Parent_Palette_Index>
@@ -5987,7 +5987,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
         <Path>..\TLB` Template\Components\Tools\Keyed Array\Wildcard Index.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>9C2372E854A301F0550676374ED5D7BD</GUID>
+      <GUID>162EBC421B00008350C939C5B5BF4269</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>23</Parent_Palette_Index>
@@ -6400,7 +6400,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
         <Path>..\TLB` Template\Components\Tools\String\Write Entire File.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>01C162D6F140A8491FFC83CA50E0C15A</GUID>
+      <GUID>C57E18C146FDD46983B831C5E68F61A6</GUID>
     </Functions_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>-1</Parent_Palette_Index>
@@ -6463,7 +6463,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
         <Path>..\TLB` Template</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>69B1F7A6833BE8541F3E16FFA40BA460</GUID>
+      <GUID>3D4808DB2A4469565512D42E4A3BE44A</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -6512,7 +6512,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
         <Path>..\TLB` Examples\QuickVIew</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>1577DA4097FDC1AE539D47A683D9BF26</GUID>
+      <GUID>93BC196FB1B1014C04659C83F9B6E4B3</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -6547,7 +6547,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
         <Path>..\TLB` Springboard\Components</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>EE5239663E14EF7A5071F9A7A74349BE</GUID>
+      <GUID>8FD224779889C5645F5F366DD41E3989</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -6596,7 +6596,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
         <Path>..\TLB` Template\Components</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>0376F4FEB9105988732FF9CFAD51A7E6</GUID>
+      <GUID>608E6975828BFC50A4A769345E7C4806</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -6631,7 +6631,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
         <Path>..\TLB` Examples\Car Wash\Components</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>8075070D81C30128582D994D6E50297C</GUID>
+      <GUID>2A69DF0F6BF1566CD137E00301B89AA4</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -6666,7 +6666,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
         <Path>..\TLB` Examples\QuickVIew\Components</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>BA71F3AD61FB77EB265687DEB46DC3FA</GUID>
+      <GUID>0EAC4BF197C82312C340236D72F18002</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>4</Parent_Palette_Index>
@@ -6785,7 +6785,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
         <Path>..\TLB` Examples\Car Wash\Components\TypeDef - SHIFTER.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>5A6150770AC361BABAFEE1F689B0A253</GUID>
+      <GUID>CE5454409EA52F1011EB8C7FFA332EB3</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>6</Parent_Palette_Index>
@@ -6904,7 +6904,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
         <Path>..\TLB` Examples\Car Wash\Components\AMC\Queue Registry Properties.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>8DC3C24316634861F1ED64C8CDF5B334</GUID>
+      <GUID>25C168ACC55866663A30A7BA52B42D6B</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>6</Parent_Palette_Index>
@@ -6939,7 +6939,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
         <Path>..\TLB` Examples\Car Wash\Components\Dependencies.llb\Exit Event Ref.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>52A5782EA9566EF6F39E4C0CF3B9A977</GUID>
+      <GUID>CFF812B19B273C52923EB23FB0D54D62</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>6</Parent_Palette_Index>
@@ -6988,7 +6988,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
         <Path>..\TLB` Examples\Car Wash\Components\Tools\String</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>19087E2D9EC3B469663C46072C42DD9C</GUID>
+      <GUID>116ABACE8781F2092CC74AAE7630BBF5</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>9</Parent_Palette_Index>
@@ -7023,7 +7023,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
         <Path>..\TLB` Examples\Car Wash\Components\Tools\Keyed Array\KeyedArray.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>F94E4DE082DA7B3A8EAACF78FD1F51D6</GUID>
+      <GUID>4EA7C94AC5D3185EFE4F023684E39F1E</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>9</Parent_Palette_Index>
@@ -7058,7 +7058,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
         <Path>..\TLB` Examples\Car Wash\Components\Tools\String\Case Matching.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>9F4465671BE6ED6A6784BA147926DD4A</GUID>
+      <GUID>7EC6ADE9B56198CCDE93A979D9F7ADCC</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>5</Parent_Palette_Index>
@@ -7149,7 +7149,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
         <Path>..\TLB` Examples\QuickVIew\Components\TypeDef - SHIFTER.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>EC4C5EE3E172E156CDB4BD40946CADE9</GUID>
+      <GUID>41B775F1621C6A3C9130230BFB32C4F6</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>12</Parent_Palette_Index>
@@ -7184,7 +7184,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
         <Path>..\TLB` Examples\QuickVIew\Components\Dependencies.llb\Exit Event Ref.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>13061D166D0FE3C8518CECF9B1E70376</GUID>
+      <GUID>9624A8C9FF00977A031158AE4AE67DC5</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>12</Parent_Palette_Index>
@@ -7219,7 +7219,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
         <Path>..\TLB` Examples\QuickVIew\Components\Tree Control\Typedef</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>0612D7EB93074F17D7D22681A5984C4A</GUID>
+      <GUID>F0BF2C58C574447136B31A68DCACD71F</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>14</Parent_Palette_Index>
@@ -7268,7 +7268,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
         <Path>..\TLB` Examples\QuickVIew\Components\Tree Control\Typedef\TYPEDEF - Tree Item.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>E330511F8243147F87746DC604CB3BD5</GUID>
+      <GUID>2D31851475BF9AA4A2C5E01A4BEC291F</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>2</Parent_Palette_Index>
@@ -7345,7 +7345,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
         <Path>..\TLB` Springboard\Components\TypeDef - SHIFTER - TLB` Springboard.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>E93D5944FE38B758F2AFA5DE1026F719</GUID>
+      <GUID>C0D0B68B27BD051CD62E098B13D96E40</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>16</Parent_Palette_Index>
@@ -7380,7 +7380,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
         <Path>..\TLB` Springboard\Components\Dependencies.llb\Exit Event Ref.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>30E90DCA1201B8671D016A9C00D2E1F1</GUID>
+      <GUID>4AAA62B5B81C4DC90152E5C290AFF312</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>3</Parent_Palette_Index>
@@ -7415,7 +7415,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
         <Path>..\TLB` Template\Builds\My Source Distribution</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>F28530BEABC7302CA973BBD93807E5B4</GUID>
+      <GUID>CA290387675A47546E3CBCC562C08DFD</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>3</Parent_Palette_Index>
@@ -7534,7 +7534,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
         <Path>..\TLB` Template\Components\TypeDef - SHIFTER.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>E8A666283FCD778C2457F2A54B755104</GUID>
+      <GUID>8A566B1CE050F6EF1AA4755C70802255</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>18</Parent_Palette_Index>
@@ -7566,7 +7566,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
           <Column>1</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>..\TLB` Template\Builds\My Source Distribution\Case Matching.ctl</Path>
+        <Path>..\TLB` Examples\Car Wash\Components\Tools\String\Case Matching.ctl</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -7580,7 +7580,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
           <Column>2</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>..\TLB` Template\Builds\My Source Distribution\Dispatch Queue Functions.ctl</Path>
+        <Path>..\TLB` Examples\Car Wash\Components\AMC\Dispatch Queue Functions.ctl</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -7594,7 +7594,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
           <Column>3</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>..\TLB` Template\Builds\My Source Distribution\Dispatcher State Variables.ctl</Path>
+        <Path>..\TLB` Examples\Car Wash\Components\AMC\Dispatcher State Variables.ctl</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -7608,7 +7608,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
           <Column>4</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>..\TLB` Template\Builds\My Source Distribution\Exit Event Ref.ctl</Path>
+        <Path>..\TLB` Examples\Car Wash\Components\Dependencies.llb\Exit Event Ref.ctl</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -7622,7 +7622,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
           <Column>5</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>..\TLB` Template\Builds\My Source Distribution\FG Dispatcher Status Action.ctl</Path>
+        <Path>..\TLB` Examples\Car Wash\Components\AMC\FG Dispatcher Status Action.ctl</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -7636,7 +7636,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
           <Column>6</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>..\TLB` Template\Builds\My Source Distribution\KeyedArray.ctl</Path>
+        <Path>..\TLB` Examples\Car Wash\Components\Tools\Keyed Array\KeyedArray.ctl</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -7650,7 +7650,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
           <Column>1</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>..\TLB` Template\Builds\My Source Distribution\Message Queue.ctl</Path>
+        <Path>..\TLB` Examples\Car Wash\Components\AMC\Message Queue.ctl</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -7664,7 +7664,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
           <Column>2</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>..\TLB` Template\Builds\My Source Distribution\Message.ctl</Path>
+        <Path>..\TLB` Examples\Car Wash\Components\AMC\Message.ctl</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -7678,7 +7678,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
           <Column>3</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>..\TLB` Template\Builds\My Source Distribution\Queue Registry Method.ctl</Path>
+        <Path>..\TLB` Examples\Car Wash\Components\AMC\Queue Registry Method.ctl</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -7692,7 +7692,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
           <Column>4</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>..\TLB` Template\Builds\My Source Distribution\Queue Registry Properties.ctl</Path>
+        <Path>..\TLB` Examples\Car Wash\Components\AMC\Queue Registry Properties.ctl</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -7706,7 +7706,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
           <Column>5</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>..\TLB` Template\Builds\My Source Distribution\State Declaration.ctl</Path>
+        <Path>..\TLB` Examples\Car Wash\Components\State Declaration.ctl</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -7720,7 +7720,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
           <Column>6</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>..\TLB` Template\Builds\My Source Distribution\System Trigger Element.ctl</Path>
+        <Path>..\TLB` Examples\Car Wash\Components\System Trigger Element.ctl</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -7734,7 +7734,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
           <Column>1</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>..\TLB` Template\Builds\My Source Distribution\System Trigger.ctl</Path>
+        <Path>..\TLB` Examples\Car Wash\Components\System Trigger.ctl</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -7748,10 +7748,10 @@ TLB` represents the next evolutionary step in developing more robust and elegant
           <Column>2</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>..\TLB` Template\Builds\My Source Distribution\TypeDef - SHIFTER.ctl</Path>
+        <Path>..\TLB` Examples\Car Wash\Components\TypeDef - SHIFTER.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>16396A2BB60E2631935AA0BC7FD99A29</GUID>
+      <GUID>4C88740AFA61618AD7E39AF4359B1F1D</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>19</Parent_Palette_Index>
@@ -7870,7 +7870,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
         <Path>..\TLB` Template\Components\AMC\Queue Registry Properties.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>D8477E783F46356E3E5D1814BE97C6EF</GUID>
+      <GUID>134CFE613259C027819A386C56C9FA76</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>19</Parent_Palette_Index>
@@ -7905,7 +7905,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
         <Path>..\TLB` Template\Components\Dependencies.llb\Exit Event Ref.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>2C16903D20B8F651192EC4FAEDDF222B</GUID>
+      <GUID>4A3ADB6331E19B2F9CF154510CD72B1E</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>19</Parent_Palette_Index>
@@ -7954,7 +7954,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
         <Path>..\TLB` Template\Components\Tools\String</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>3F1B18281FABC9638FCA9903CE7CD124</GUID>
+      <GUID>913E200AA3BA91743A78212F2ED02B80</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>23</Parent_Palette_Index>
@@ -7989,7 +7989,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
         <Path>..\TLB` Template\Components\Tools\Keyed Array\KeyedArray.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>CE546EC4DC85D584B30C0C673E2CFA57</GUID>
+      <GUID>A1191820880A55E084808B091749B746</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>23</Parent_Palette_Index>
@@ -8024,7 +8024,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
         <Path>..\TLB` Template\Components\Tools\String\Case Matching.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>386C1DA700527804B99739D84A50114A</GUID>
+      <GUID>471EED4280BAAAE11495A9C1A64EFDCE</GUID>
     </Controls_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
