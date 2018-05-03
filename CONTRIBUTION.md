@@ -33,10 +33,7 @@ In order to contribute to this project, it is recommended that you follow these 
 
 # Contributing
 
-After you have verified that you can successfully run the host VI, you may fork the repository and begin contributing to to the project.
-
-    Make your change.
-    On GitHub, send a new pull request to the main repository's master branch. GitHub pull requests are the expected method of code collaboration on this project.
+After you have verified that you can successfully run the host VI, you may fork the repository and begin contributing to to the project. Make your change. On GitHub, send a new pull request to the main repository's master branch. GitHub pull requests are the expected method of code collaboration on this project.
 
 # Developer Certificate of Origin (DCO)
 
