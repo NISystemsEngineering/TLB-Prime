@@ -18,3 +18,6 @@ In addition, it provides a set of examples and templates to get developers start
  
 ### Repository Overview:
 The master branch contains the current released copy of the code. The trunk folder contains the package specification along with the development code installed to vi.lib, the examples, the template generator, and the template itself.
+
+### Getting Started
+This templates beautifully pulls very powerful LabVIEW features. The best way to get started is to follow the training located in [TLB' Exercise Manual](https://github.com/NISystemsEngineering/TLB-Prime/tree/TLBPrime1/Documentation) and look at the solution located in [TLB' Car Wash Solution](https://github.com/NISystemsEngineering/TLB-Prime/tree/TLBPrime1/Source/TLB%60%20Examples/Car%20Wash)
