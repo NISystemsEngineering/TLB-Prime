@@ -1,6 +1,5 @@
 # Libraries
 *.lvlibp
-*.llb
 
 # Shared objects (inc. Windows DLLs)
 *.dll
@@ -14,5 +13,3 @@
 # Metadata
 *.aliases
 *.lvlps
-
-!/Style Guidelines/**/*
