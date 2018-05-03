@@ -10,7 +10,7 @@ See GitHub's official documentation for more details.
 
 # Getting Started
 
-In order to contribute to this project, it is recommended that you follow these use the following LabVIEW version:
+In order to contribute to this project, it is recommended that you use the following LabVIEW version:
 
 - __Develop in LabVIEW 2015 32 bits__
 
