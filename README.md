@@ -1,6 +1,6 @@
 # TLB-Prime
 
-TLB Prime is an application template for LabVIEW which allows users to quickly generate a new top-level application.
+TLB Prime is an application template for LabVIEW which allows users to quickly generate a new top-level application.The source code exist only in LabVIEW 2015 32 bits. See the [CONTRIBUTION](https://github.com/NISystemsEngineering/TLB-Prime/blob/TLBPrime1/CONTRIBUTION.md) document for more details.
 
 ### Goals:
 The hallmark of an experienced LabVIEW developer is the usage of their or others' templates which prevent the ubiquitous blank block diagram symptom where time is wasted doing the same thing that they have done before. This project should allow users to get started in developing state machine applications with a robust and well-designed template.
