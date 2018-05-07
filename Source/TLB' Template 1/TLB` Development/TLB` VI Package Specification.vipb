@@ -1,10 +1,10 @@
-<VI_Package_Builder_Settings Version="2017" Created_Date="2012-08-23 13:39:10" Modified_Date="2018-05-03 15:00:59" Creator="nkirchne" Comments="" ID="6ee3506f40e91f3da8a82a8cf8e65a30">
+<VI_Package_Builder_Settings Version="2017" Created_Date="2012-08-23 13:39:10" Modified_Date="2018-05-07 10:22:32" Creator="nkirchne" Comments="" ID="39ab398350632711f01b59e00ec48869">
   <Library_General_Settings>
     <Package_File_Name>ni_tool_tlb`</Package_File_Name>
     <Library_Version>1.3.0.28</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>..</Library_Source_Folder>
-    <Library_Output_Folder>..\..\Build</Library_Output_Folder>
+    <Library_Output_Folder>..\..\..\Build</Library_Output_Folder>
     <Company_Name>National Instruments</Company_Name>
     <Library_Summary/>
     <Library_License>NI SLA</Library_License>
@@ -275,7 +275,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
         <Path>..\TLB` Template</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>F9B97F1313FA9D8127A0C80D13773F55</GUID>
+      <GUID>F57F171D13C436D925F189086DC410F2</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -324,7 +324,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
         <Path>..\TLB` Examples\QuickVIew</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>AA42E90BB545330DD0861F0B5D160A8F</GUID>
+      <GUID>8BE609486596C9CFE12D31C5969BD822</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -373,7 +373,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
         <Path>..\TLB` Springboard\MAIN - TLB` Springboard Tool.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>1BE89B9D7944FBB8F72CB84C07AE6EC7</GUID>
+      <GUID>58629319EDEF496B5114BF3F65D62FD2</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -436,7 +436,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
         <Path>..\TLB` Template\MAIN - Template Application.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>352AFE3C302D5479C10F4B2A5167F9CB</GUID>
+      <GUID>D8B7E83511687A52237B75E85BB3B997</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -499,7 +499,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
         <Path>..\TLB` Examples\Car Wash\MAIN - Template Application.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>061E7A11B4AA49A5687E53B8009E2E5E</GUID>
+      <GUID>48DBF286F12ED19A572E5A8BFBC74143</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -548,7 +548,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
         <Path>..\TLB` Examples\QuickVIew\MAIN - Quick VIew.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>9B8DEAB81B9853F82086FE5FDCE18E5A</GUID>
+      <GUID>818D61094397EA3C15C005A3B7ED88B0</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>4</Parent_Palette_Index>
@@ -653,7 +653,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
         <Path>..\TLB` Examples\Car Wash\Components\SHIFTER.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>2DE5005372382EE30A86EBB36EF70337</GUID>
+      <GUID>721E4100767A7E5F2C330420FE206EAD</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>6</Parent_Palette_Index>
@@ -1290,7 +1290,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
         <Path>..\TLB` Examples\Car Wash\Components\AMC\Verify Dispatcher Queue.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>9F31473F41024493FC07A0F23C74B09A</GUID>
+      <GUID>F7B98D46929B0A1307D6DB2E77F3A9EA</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>6</Parent_Palette_Index>
@@ -1381,7 +1381,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
         <Path>..\TLB` Examples\Car Wash\Components\Dependencies.llb\Tool - Get Parent.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>8606B56A2F31722847DD2BE4675FDFBD</GUID>
+      <GUID>AFADD2A9DBFCE3C79EBFB4FB2BA58240</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>6</Parent_Palette_Index>
@@ -1430,7 +1430,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
         <Path>..\TLB` Examples\Car Wash\Components\Tools\String</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>48A288D05B73DD6029A6A7238578CB09</GUID>
+      <GUID>9E568F5AADE8A44F3909BA479D51D1A7</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>9</Parent_Palette_Index>
@@ -1717,7 +1717,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
         <Path>..\TLB` Examples\Car Wash\Components\Tools\Keyed Array\Wildcard Index.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>53928819CD81CC73DD9154BE053084DD</GUID>
+      <GUID>4F0800680DA44298B4D319F9118B952C</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>9</Parent_Palette_Index>
@@ -2130,7 +2130,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
         <Path>..\TLB` Examples\Car Wash\Components\Tools\String\Write Entire File.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>CF141945CC385A8526ED3FAED6D9F0D4</GUID>
+      <GUID>9162D0075250A229B7FBCB9C3855F20B</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>5</Parent_Palette_Index>
@@ -2235,7 +2235,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
         <Path>..\TLB` Examples\QuickVIew\Components\SHIFTER.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>BC0AB4A3BE6BAE8E6AC3C99DFB132A93</GUID>
+      <GUID>620CA642134CC251058080FA338AFEEA</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>12</Parent_Palette_Index>
@@ -2326,7 +2326,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
         <Path>..\TLB` Examples\QuickVIew\Components\Dependencies.llb\Tool - Get Parent.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>04AA43DBD373A3572951216C661ED6A6</GUID>
+      <GUID>8587984C9E823EB7C5706110959E049F</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>12</Parent_Palette_Index>
@@ -2739,7 +2739,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
         <Path>..\TLB` Examples\QuickVIew\Components\Tree Control\VIG - Element DB.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>CD9EEB0985A1CC74D0CA7DCC75053B11</GUID>
+      <GUID>457A3E634524C3F57F72FEDA0B73A21A</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>12</Parent_Palette_Index>
@@ -2816,7 +2816,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
         <Path>..\TLB` Examples\QuickVIew\Components\VI Collection\set Active VIs.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>8A506CA5571EF40DCA0EC843B410D3C8</GUID>
+      <GUID>E39C6E59B2833087F4BF3A8DAAE1B1BA</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>2</Parent_Palette_Index>
@@ -2879,7 +2879,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
         <Path>..\TLB` Springboard\Components\SHIFTER - TLB` Springboard.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>77D49671D4A0221D910400020EAE39AF</GUID>
+      <GUID>DA31C7E4B8B48AFC8C7CDEDB7D71E8C0</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>16</Parent_Palette_Index>
@@ -2970,7 +2970,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
         <Path>..\TLB` Springboard\Components\Dependencies.llb\Tool - Get Parent.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>D5F7E6B7858A89DA5234BD395EF88A8F</GUID>
+      <GUID>FE37D56FB1725D45A6587D8FA69A0380</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>3</Parent_Palette_Index>
@@ -3005,7 +3005,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
         <Path>..\TLB` Template\Builds\My Source Distribution</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>B8BABC9BDAFAA9E72DA6F76FDC2CAE6E</GUID>
+      <GUID>F05E270CA75B6022A5C36A53BBDD50AB</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>3</Parent_Palette_Index>
@@ -3124,7 +3124,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
         <Path>..\TLB` Template\Components\SHIFTER.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>31371FBC6E4AE7FA70E9A91C824E89B1</GUID>
+      <GUID>219B7F655DCF56C97957352CE06D4C6E</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>18</Parent_Palette_Index>
@@ -4545,7 +4545,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
         <Path>..\TLB` Examples\Car Wash\Components\Tools\String\Write Entire File.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>85DAB6F7C57709E74C8233536666BB30</GUID>
+      <GUID>D1049773B8CB4A6EC04541FC4F7CC03E</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>19</Parent_Palette_Index>
@@ -5210,7 +5210,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
         <Path>..\TLB` Template\Components\AMC\Verify Dispatcher Queue.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>0C3E8CC3854CA58F7EA9BF55DBAC6560</GUID>
+      <GUID>E6E8C295469E17133B91D515CC33FFC9</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>19</Parent_Palette_Index>
@@ -5301,7 +5301,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
         <Path>..\TLB` Template\Components\Dependencies.llb\Tool - Get Parent.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>F17F4CAED22ED37C0A808CCD1A5C0688</GUID>
+      <GUID>8EA6A22EE9B337A3AA7B38A9BA78A7F0</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>19</Parent_Palette_Index>
@@ -5350,7 +5350,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
         <Path>..\TLB` Template\Components\Tools\String</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>FB748D473408DE01D55BC3679E0973BB</GUID>
+      <GUID>59584DD4A48ADE78F9539BD95B6AAF2B</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>21</Parent_Palette_Index>
@@ -5665,7 +5665,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
         <Path>..\TLB` Template\Components\AMC\Compatibility\AMC Send Network Message.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>633CD096C0ABA47C9D9A9D3A386E875F</GUID>
+      <GUID>7CBA435C8598FF7790E79B7B23182F91</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>21</Parent_Palette_Index>
@@ -5700,7 +5700,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
         <Path>..\TLB` Template\Components\AMC\Templates\QMH Template.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>E71F6F129253045954D774C21B5B34E8</GUID>
+      <GUID>9F104DB9E76E73D7E4EE7E3C491D37D2</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>23</Parent_Palette_Index>
@@ -5987,7 +5987,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
         <Path>..\TLB` Template\Components\Tools\Keyed Array\Wildcard Index.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>162EBC421B00008350C939C5B5BF4269</GUID>
+      <GUID>BEF320D4777A0FC9BCECC1BC52F3DB28</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>23</Parent_Palette_Index>
@@ -6400,7 +6400,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
         <Path>..\TLB` Template\Components\Tools\String\Write Entire File.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>C57E18C146FDD46983B831C5E68F61A6</GUID>
+      <GUID>8A40A66FD5F70D1892D93B8AA7D3E8BE</GUID>
     </Functions_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>-1</Parent_Palette_Index>
@@ -6463,7 +6463,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
         <Path>..\TLB` Template</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>3D4808DB2A4469565512D42E4A3BE44A</GUID>
+      <GUID>DA6E8EC415F13AF172222875B307AE96</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -6512,7 +6512,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
         <Path>..\TLB` Examples\QuickVIew</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>93BC196FB1B1014C04659C83F9B6E4B3</GUID>
+      <GUID>F425FDB5221CD66F183C51FE5C04A405</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -6547,7 +6547,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
         <Path>..\TLB` Springboard\Components</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>8FD224779889C5645F5F366DD41E3989</GUID>
+      <GUID>B390F0B0D396EE1554D2FB971E353FA1</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -6596,7 +6596,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
         <Path>..\TLB` Template\Components</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>608E6975828BFC50A4A769345E7C4806</GUID>
+      <GUID>7D1728C1AE92588D60196B710051A998</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -6631,7 +6631,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
         <Path>..\TLB` Examples\Car Wash\Components</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>2A69DF0F6BF1566CD137E00301B89AA4</GUID>
+      <GUID>1D7E145D0E55119C95CE6BB241320284</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -6666,7 +6666,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
         <Path>..\TLB` Examples\QuickVIew\Components</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>0EAC4BF197C82312C340236D72F18002</GUID>
+      <GUID>35CD5200993E3F8B0A778F65F5973CA0</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>4</Parent_Palette_Index>
@@ -6785,7 +6785,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
         <Path>..\TLB` Examples\Car Wash\Components\TypeDef - SHIFTER.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>CE5454409EA52F1011EB8C7FFA332EB3</GUID>
+      <GUID>66EF47CA15D0A77ED0CC76D2F8D4B0D1</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>6</Parent_Palette_Index>
@@ -6904,7 +6904,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
         <Path>..\TLB` Examples\Car Wash\Components\AMC\Queue Registry Properties.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>25C168ACC55866663A30A7BA52B42D6B</GUID>
+      <GUID>0E139604910B00F0EE31690B084F4C7B</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>6</Parent_Palette_Index>
@@ -6939,7 +6939,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
         <Path>..\TLB` Examples\Car Wash\Components\Dependencies.llb\Exit Event Ref.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>CFF812B19B273C52923EB23FB0D54D62</GUID>
+      <GUID>47B4AFD4D409325E9DD67023D00825A4</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>6</Parent_Palette_Index>
@@ -6988,7 +6988,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
         <Path>..\TLB` Examples\Car Wash\Components\Tools\String</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>116ABACE8781F2092CC74AAE7630BBF5</GUID>
+      <GUID>47C6FC358035BA39215A4EA2D25FF508</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>9</Parent_Palette_Index>
@@ -7023,7 +7023,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
         <Path>..\TLB` Examples\Car Wash\Components\Tools\Keyed Array\KeyedArray.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>4EA7C94AC5D3185EFE4F023684E39F1E</GUID>
+      <GUID>030141F4BB488DE8625DE6DA04159BD5</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>9</Parent_Palette_Index>
@@ -7058,7 +7058,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
         <Path>..\TLB` Examples\Car Wash\Components\Tools\String\Case Matching.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>7EC6ADE9B56198CCDE93A979D9F7ADCC</GUID>
+      <GUID>9137AC2866A333DFA3225B3D59C8CF20</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>5</Parent_Palette_Index>
@@ -7149,7 +7149,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
         <Path>..\TLB` Examples\QuickVIew\Components\TypeDef - SHIFTER.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>41B775F1621C6A3C9130230BFB32C4F6</GUID>
+      <GUID>8E5DEABB4FC8F72E8F214F7DB5ABBACC</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>12</Parent_Palette_Index>
@@ -7184,7 +7184,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
         <Path>..\TLB` Examples\QuickVIew\Components\Dependencies.llb\Exit Event Ref.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>9624A8C9FF00977A031158AE4AE67DC5</GUID>
+      <GUID>0B59DBB625CDC0DA3DCC5DD6515DBE40</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>12</Parent_Palette_Index>
@@ -7219,7 +7219,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
         <Path>..\TLB` Examples\QuickVIew\Components\Tree Control\Typedef</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>F0BF2C58C574447136B31A68DCACD71F</GUID>
+      <GUID>E5FB74EDA5D7BC3CBEC1675325A33328</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>14</Parent_Palette_Index>
@@ -7268,7 +7268,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
         <Path>..\TLB` Examples\QuickVIew\Components\Tree Control\Typedef\TYPEDEF - Tree Item.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>2D31851475BF9AA4A2C5E01A4BEC291F</GUID>
+      <GUID>B62A6323DD0BD07AD2DFAE33F63443B9</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>2</Parent_Palette_Index>
@@ -7345,7 +7345,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
         <Path>..\TLB` Springboard\Components\TypeDef - SHIFTER - TLB` Springboard.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>C0D0B68B27BD051CD62E098B13D96E40</GUID>
+      <GUID>02481DDD7BCC5D848B98F417F6C18597</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>16</Parent_Palette_Index>
@@ -7380,7 +7380,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
         <Path>..\TLB` Springboard\Components\Dependencies.llb\Exit Event Ref.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>4AAA62B5B81C4DC90152E5C290AFF312</GUID>
+      <GUID>BE94F005796ED8F6E4669305E81D3FFF</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>3</Parent_Palette_Index>
@@ -7415,7 +7415,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
         <Path>..\TLB` Template\Builds\My Source Distribution</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>CA290387675A47546E3CBCC562C08DFD</GUID>
+      <GUID>65EAA883F10EE1624D43D12D5217CF91</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>3</Parent_Palette_Index>
@@ -7534,7 +7534,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
         <Path>..\TLB` Template\Components\TypeDef - SHIFTER.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>8A566B1CE050F6EF1AA4755C70802255</GUID>
+      <GUID>1D2ADA9712D8C8C3D9B5B90C2E1A7CBA</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>18</Parent_Palette_Index>
@@ -7751,7 +7751,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
         <Path>..\TLB` Examples\Car Wash\Components\TypeDef - SHIFTER.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>4C88740AFA61618AD7E39AF4359B1F1D</GUID>
+      <GUID>1B96144A074C6FCCDF7555679420843F</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>19</Parent_Palette_Index>
@@ -7870,7 +7870,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
         <Path>..\TLB` Template\Components\AMC\Queue Registry Properties.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>134CFE613259C027819A386C56C9FA76</GUID>
+      <GUID>7DB5741FC2487E955B6631506E52C8D8</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>19</Parent_Palette_Index>
@@ -7905,7 +7905,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
         <Path>..\TLB` Template\Components\Dependencies.llb\Exit Event Ref.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>4A3ADB6331E19B2F9CF154510CD72B1E</GUID>
+      <GUID>C8F290BA2414B66EDC5B941789BA9304</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>19</Parent_Palette_Index>
@@ -7954,7 +7954,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
         <Path>..\TLB` Template\Components\Tools\String</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>913E200AA3BA91743A78212F2ED02B80</GUID>
+      <GUID>42ED26ADD08020A6EF0648842CFF3D6B</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>23</Parent_Palette_Index>
@@ -7989,7 +7989,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
         <Path>..\TLB` Template\Components\Tools\Keyed Array\KeyedArray.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>A1191820880A55E084808B091749B746</GUID>
+      <GUID>7DF57CE89EA80680F298AC7C3CFEBDA6</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>23</Parent_Palette_Index>
@@ -8024,7 +8024,7 @@ TLB` represents the next evolutionary step in developing more robust and elegant
         <Path>..\TLB` Template\Components\Tools\String\Case Matching.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>471EED4280BAAAE11495A9C1A64EFDCE</GUID>
+      <GUID>16799DA7B83D483EE00DBA64CD495AF8</GUID>
     </Controls_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
