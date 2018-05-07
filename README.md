@@ -24,7 +24,7 @@ and it is primed with 2 build specifications; one to build a exe and one to buil
 ```
 TLB-Prime\Source\TLB' Template 1\TLB` Template\Build\
 ```
-these are to help quick sharig of the code once.
+these are meant to help quick sharig of an app.
 
 Please be aware that the above location is purposely separated from the repo package build direcotry 
 ```
