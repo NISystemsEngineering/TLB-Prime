@@ -15,9 +15,24 @@ TLB' provides a template which handles common functionality that every state mac
 - Handling the Panel Close? event
 
 In addition, it provides a set of examples and templates to get developers started with their application.
+
+The core of the code is located in:
+```
+TLB-Prime\Source\TLB' Template x\TLB` Template
+```
+and it is primed with 2 build specifications; one to build a exe and one to build a source distribution. Both are configure to deploy in the same directory.
+```
+TLB-Prime\Source\TLB' Template 1\TLB` Template\Build\
+```
+these are to help quick sharig of the code once.
+
+Please be aware that the above location is purposely separated from the repo package build direcotry 
+```
+TLB-Prime\Build
+```
  
 ### Repository Overview:
-The master branch contains the current released copy of the code. The trunk folder contains the package specification along with the development code installed to vi.lib, the examples, the template generator, and the template itself.
+The master branch contains the latest verstion of TLB' 1 (TLB prime 1). The distinction between 1 and 2 is made explicit in the folder structure since TLB\` 2 adds quite a few architecture changes that can be complex to navigate. These features will become must have as the application grows but for a quick 123 GUI, TLB\`1 is more than sufficient.
 
 ### Getting Started
 This templates beautifully pulls together quite a few powerful LabVIEW features. The best way to get started is to follow the training located in [TLB' Exercise Manual](https://github.com/NISystemsEngineering/TLB-Prime/tree/TLBPrime1/Documentation) and look at the solution located in [TLB' Car Wash Solution](https://github.com/NISystemsEngineering/TLB-Prime/tree/master/Source/TLB%60%20Examples/Car%20Wash), Also don't forget the LabVIEW Help :).
