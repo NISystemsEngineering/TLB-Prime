@@ -120,7 +120,7 @@
 				<Property Name="Destination[1].path" Type="Path">../Builds/My Source Distribution/data</Property>
 				<Property Name="Destination[1].path.type" Type="Str">relativeToProject</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
-				<Property Name="Source[0].itemID" Type="Str">{EB59744E-79A4-4D61-BA6B-ED8ECC14E7E4}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{BC4EF8C3-5BCC-46BC-A0B4-EE1F2AF0FEE2}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].Container.applyInclusion" Type="Bool">true</Property>
 				<Property Name="Source[1].Container.depDestIndex" Type="Int">0</Property>
