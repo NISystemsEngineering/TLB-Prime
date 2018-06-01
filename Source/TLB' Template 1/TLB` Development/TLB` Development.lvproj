@@ -1,6 +1,6 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <Project Type="Project" LVVersion="15008000">
-	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
+	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Property Name="NI.Project.Description" Type="Str"></Property>
 	<Item Name="My Computer" Type="My Computer">
 		<Property Name="server.app.propertiesEnabled" Type="Bool">true</Property>
@@ -16,7 +16,7 @@
 		<Item Name="TLB` Springboard.lvlib" Type="Library" URL="../../TLB` Springboard/TLB` Springboard.lvlib"/>
 		<Item Name="TLB` Template.lvlib" Type="Library" URL="../../TLB` Template/TLB` Template.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
-			<Property Name="NI.SortType" Type="Int">2</Property>
+			<Property Name="NI.SortType" Type="Int">1</Property>
 			<Item Name="vi.lib" Type="Folder">
 				<Property Name="NI.SortType" Type="Int">2</Property>
 				<Item Name="Acquire Input Data.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/inputDevices.llb/Acquire Input Data.vi"/>
