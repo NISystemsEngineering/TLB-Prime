@@ -20,4 +20,6 @@
 		<Item Name="Copy Library into Project.vi" Type="VI" URL="../Components/Copy Library into Project.vi"/>
 	</Item>
 	<Item Name="MAIN - TLB` Springboard Tool.vi" Type="VI" URL="../MAIN - TLB` Springboard Tool.vi"/>
+	<Item Name="Recursive Owned VIs List.vi" Type="VI" URL="../Components/Recursive Owned VIs List.vi"/>
+	<Item Name="Find and Rename VIs.vi" Type="VI" URL="../Components/Find and Rename VIs.vi"/>
 </Library>
