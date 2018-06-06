@@ -22,5 +22,6 @@
 	<Item Name="MAIN - TLB` Springboard Tool.vi" Type="VI" URL="../MAIN - TLB` Springboard Tool.vi"/>
 	<Item Name="Recursive Owned VIs List.vi" Type="VI" URL="../Components/Recursive Owned VIs List.vi"/>
 	<Item Name="Find and Rename VIs.vi" Type="VI" URL="../Components/Find and Rename VIs.vi"/>
-	<Item Name="Find and Rename Classes.vi" Type="VI" URL="../Components/Find and Rename Classes.vi"/>
+	<Item Name="Find and Rename Libraries.vi" Type="VI" URL="../Components/Find and Rename Libraries.vi"/>
+	<Item Name="Find and Rename Folders.vi" Type="VI" URL="../Components/Find and Rename Folders.vi"/>
 </Library>
