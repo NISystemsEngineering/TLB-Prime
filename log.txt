@@ -1,0 +1,385 @@
+commit 3f02670ee87040a84126e39be3f10dcc0a821d2b
+Author: hoffiz <fernandezhoffiz@gmail.com>
+Date:   Wed Jun 6 11:44:18 2018 -0500
+
+    Rename VIs and libraries after creating copy and starting the action for rename folders, last action will be to clean the staging folder of lingering TMLPL
+
+commit 2a764ba8c13fc19b2b88fb2163a6eed5f5ce2bcf
+Author: hoffiz <fernandezhoffiz@gmail.com>
+Date:   Mon Jun 4 13:46:27 2018 -0500
+
+    adding code to rename librarires but pausing until further reviewing with Norm
+
+commit e4a15b6681c1331a219d286fed70dc12aad4f3b0
+Author: hoffiz <fernandezhoffiz@gmail.com>
+Date:   Fri Jun 1 16:44:19 2018 -0500
+
+    Adding code to search all children and rename all VIs prefixed with TMPL
+
+commit f3dccb38e62cdc3caed350d220f0c13b9405edfc
+Author: hoffiz <fernandezhoffiz@gmail.com>
+Date:   Fri Jun 1 13:46:24 2018 -0500
+
+    working on template 2 springboard, move template 2 source code into a subfolder (to mimic template 1), and renamed a few things to have {TMLP} as a prefix always
+
+commit 88959533bea268eec19afbc271b0a081c2dfbae8
+Author: hoffiz <fernandezhoffiz@gmail.com>
+Date:   Fri Jun 1 11:19:18 2018 -0500
+
+    minor cosmetic changes
+
+commit b856f8a0fa915ca6f03e756eeb0253076ac59aff
+Author: Jaime Fernández <hoffiz@users.noreply.github.com>
+Date:   Mon May 7 10:24:54 2018 -0500
+
+    Update README.md
+
+commit d2b38ac2e6abe8dd7df02f1180fbe3640afcce39
+Merge: 0834115 4e5ca85
+Author: hoffiz <fernandezhoffiz@gmail.com>
+Date:   Mon May 7 10:23:34 2018 -0500
+
+    Merge branch 'master' of github.com:NISystemsEngineering/TLB-Prime
+
+commit 083411550edf39bce6d60239379f13d153c469bc
+Author: hoffiz <fernandezhoffiz@gmail.com>
+Date:   Mon May 7 10:23:26 2018 -0500
+
+    fixed package build directory
+
+commit 8b6d0369aed2ca7ffe7777735888e6a177f06b60
+Author: hoffiz <fernandezhoffiz@gmail.com>
+Date:   Mon May 7 10:20:36 2018 -0500
+
+    Move code source to TLB` Template 1 for isolating TLB`1 from TLB`2
+
+commit 4e5ca85ff92356aa9043ea6533865fff713826af
+Author: Jaime Fernández <hoffiz@users.noreply.github.com>
+Date:   Mon May 7 10:19:12 2018 -0500
+
+    Update README.md
+
+commit ac5d721049a5a41054355a14584247db6fbd37ed
+Author: Jaime Fernández <hoffiz@users.noreply.github.com>
+Date:   Thu May 3 17:40:55 2018 -0500
+
+    Update CONTRIBUTION.md
+
+commit 655e4b2e02c95dd810e2efe292162b0c331b4545
+Author: Jaime Fernández <hoffiz@users.noreply.github.com>
+Date:   Thu May 3 17:40:15 2018 -0500
+
+    Update README.md
+
+commit 12f6bc44517002ab43bd90dabf10ce451fab0dd4
+Author: Jaime Fernández <hoffiz@users.noreply.github.com>
+Date:   Thu May 3 17:39:52 2018 -0500
+
+    Update README.md
+
+commit d05dbbbe0750bce70d82ba95fff73cef2db3c421
+Author: Jaime Fernández <hoffiz@users.noreply.github.com>
+Date:   Thu May 3 15:35:40 2018 -0500
+
+    Update CONTRIBUTION.md
+
+commit 75f756fd37db65afafb5e18389ab3e52792e304c
+Author: Jaime Fernández <hoffiz@users.noreply.github.com>
+Date:   Thu May 3 15:35:08 2018 -0500
+
+    Update CONTRIBUTION.md
+
+commit 37d56b5440997e142abf12fb402356ae009dbcea
+Merge: 0c4c501 00561b0
+Author: Jaime Fernández <hoffiz@users.noreply.github.com>
+Date:   Thu May 3 15:31:43 2018 -0500
+
+    Merge pull request #3 from NISystemsEngineering/TLBPrime2
+    
+    Tlb prime2
+
+commit 00561b0cced86ce4adecc0a6bb83cf63398a8c0f
+Author: hoffiz <fernandezhoffiz@gmail.com>
+Date:   Thu May 3 15:30:22 2018 -0500
+
+    adding prime 2 in its own folder
+
+commit 0c4c5012c840ee3df7151af6f5479e704ec7834d
+Author: hoffiz <fernandezhoffiz@gmail.com>
+Date:   Thu May 3 15:17:58 2018 -0500
+
+    adding dependencies libraries previously being ignored
+
+commit 18258a2fc18c2dc8000ecafde15e804727ad8c8f
+Merge: 3e556d4 408ae99
+Author: Jaime Fernández <hoffiz@users.noreply.github.com>
+Date:   Thu May 3 15:07:03 2018 -0500
+
+    Merge pull request #2 from NISystemsEngineering/TLBPrime1
+    
+    Tlb prime1
+
+commit 408ae99d38b0bcbf76412627e0a18052fd28f051
+Merge: b409e57 3e556d4
+Author: Jaime Fernández <hoffiz@users.noreply.github.com>
+Date:   Thu May 3 15:06:42 2018 -0500
+
+    Merge branch 'master' into TLBPrime1
+
+commit b409e577b8dd5b08871ef1aa02f5feb29dddd7e4
+Author: hoffiz <fernandezhoffiz@gmail.com>
+Date:   Thu May 3 15:02:57 2018 -0500
+
+    building 1.3.0.27.vip
+
+commit 5ad494de67411dd4cb2381fd31954852cebd98bc
+Author: hoffiz <fernandezhoffiz@gmail.com>
+Date:   Thu May 3 14:57:12 2018 -0500
+
+    recompile back to LabVIEW 2015 32 bits
+
+commit 8322a780974ef8b3193432b028e8a0aed9fe2eaf
+Author: Jaime Fernández <hoffiz@users.noreply.github.com>
+Date:   Thu May 3 14:51:03 2018 -0500
+
+    Update README.md
+
+commit 5f58e24badcc5d8493ad6579e20693c38bcec571
+Author: Jaime Fernández <hoffiz@users.noreply.github.com>
+Date:   Thu May 3 14:15:33 2018 -0500
+
+    Update README.md
+
+commit 8e1e1ee58da9f41c2e2e0df34642023f0c5367be
+Author: Jaime Fernández <hoffiz@users.noreply.github.com>
+Date:   Wed May 2 16:23:05 2018 -0500
+
+    Update CONTRIBUTION.md
+
+commit b176dc5f38b5e072551eefaa9078f9c5d775e378
+Author: Jaime Fernández <hoffiz@users.noreply.github.com>
+Date:   Wed May 2 16:22:23 2018 -0500
+
+    Update README.md
+
+commit 35abafc4929e6512aeefd1721140a50d78976327
+Author: Jaime Fernández <hoffiz@users.noreply.github.com>
+Date:   Wed May 2 16:21:37 2018 -0500
+
+    Update README.md
+
+commit 3e556d40663451e7ae290e64c7cb2505e4c3575d
+Author: Jaime Fernández <hoffiz@users.noreply.github.com>
+Date:   Wed May 2 16:20:57 2018 -0500
+
+    Update README.md
+
+commit 7c40c8cd49ef20693228e26d68b858ab4d50f158
+Author: Jaime Fernández <hoffiz@users.noreply.github.com>
+Date:   Wed May 2 16:20:00 2018 -0500
+
+    Update README.md
+
+commit d51d9f9dae25746abac181a6717f5e6b8041b8fd
+Author: Jaime Fernández <hoffiz@users.noreply.github.com>
+Date:   Wed May 2 16:18:28 2018 -0500
+
+    Update README.md
+
+commit 6a0ad429499c498611f1c7c50ba7c0a31d3bb25d
+Author: hoffiz <fernandezhoffiz@gmail.com>
+Date:   Wed May 2 16:17:34 2018 -0500
+
+    adding two new version for testing vipb
+
+commit 71bbe457eb74bc611748a77d81ef908d5443eee4
+Author: hoffiz <fernandezhoffiz@gmail.com>
+Date:   Wed May 2 15:21:41 2018 -0500
+
+    modified vi package builder and removed dummy app and source distribution build
+
+commit c3529a64fa1e7ff84c331e0ca2c393396fbe6620
+Author: hoffiz <fernandezhoffiz@gmail.com>
+Date:   Wed May 2 14:36:08 2018 -0500
+
+    Moving build outside source and updating vip builder to new locations
+
+commit 0090eed9fb21066a57c208f0dd36411e88e591bb
+Author: hoffiz <fernandezhoffiz@gmail.com>
+Date:   Wed May 2 11:43:30 2018 -0500
+
+    seprate source from compile
+
+commit 253b64edf1d9d5575c17a3e767527dd5adff7379
+Author: hoffiz <fernandezhoffiz@gmail.com>
+Date:   Wed May 2 11:17:38 2018 -0500
+
+    windws case weirdness
+
+commit d6520201de1116216be765861fc56a8502302da1
+Author: hoffiz <fernandezhoffiz@gmail.com>
+Date:   Wed May 2 11:17:04 2018 -0500
+
+    windws case weirdness
+
+commit c96a4715e0d4494a78a682ecb857aa8c66266a3b
+Author: hoffiz <fernandezhoffiz@gmail.com>
+Date:   Wed May 2 11:16:46 2018 -0500
+
+    windws case weirdness
+
+commit 7e284ec36216d022cefdb6898a6e41e982629921
+Author: hoffiz <fernandezhoffiz@gmail.com>
+Date:   Wed May 2 11:16:08 2018 -0500
+
+    relink missing VI
+
+commit 3e50482a7bf3619abb70c117262e860305fc346b
+Author: hoffiz <fernandezhoffiz@gmail.com>
+Date:   Wed May 2 11:13:25 2018 -0500
+
+    Renaming dotfiles and agreggate folder
+
+commit 519829bd8a2e9d72a68cbcb70d8bf49b5d20302b
+Author: hoffiz <fernandezhoffiz@gmail.com>
+Date:   Wed May 2 11:09:27 2018 -0500
+
+    Rename trunk to Source
+
+commit 786df3cbf18eb61f75c5bd9960793f70a18e4b4b
+Author: hoffiz <fernandezhoffiz@gmail.com>
+Date:   Wed May 2 11:07:52 2018 -0500
+
+    moving style guidelines to Documentation folder
+
+commit e36631acb38a40ad40391f11cf7c34bf48bf709e
+Author: hoffiz <fernandezhoffiz@gmail.com>
+Date:   Wed May 2 11:05:41 2018 -0500
+
+    CONTRIBUTION file
+
+commit 80bf70e4e665f014841fef8488cb46adb8affcab
+Author: hoffiz <fernandezhoffiz@gmail.com>
+Date:   Wed May 2 11:04:22 2018 -0500
+
+    adding missing components
+
+commit 92b9a0653317654f1edd3713d46204f680ff80bc
+Author: hoffiz <fernandezhoffiz@gmail.com>
+Date:   Wed May 2 11:03:58 2018 -0500
+
+    Pulled source from last known vip 1.3.0.24, pulled car wash exercise solution into exmaples and change its timeput mechanism, marked everything to separate compile from source
+
+commit f1de4e6404c7679ec1ca9814d6b4067c20956584
+Author: hoffiz <fernandezhoffiz@gmail.com>
+Date:   Tue May 1 14:24:52 2018 -0500
+
+    Added enum completed back, error indicator, and wire moved in change state
+
+commit 8181a88a15d54472c8ab0ed737a295a65f8f1288
+Author: hoffiz <fernandezhoffiz@gmail.com>
+Date:   Fri Apr 27 16:58:21 2018 -0500
+
+    removed init and close loop mini subvi stopper for a true in the last state, enable change state in a subVI this can get messy quick.
+
+commit a847f5b6020be53442306aa063ee99ec2d26967b
+Author: hoffiz <fernandezhoffiz@gmail.com>
+Date:   Fri Apr 27 16:45:43 2018 -0500
+
+    moved blue loop to match size, deleted wait VI, deleted error indicator, and marked all VI to separate code from compile
+
+commit 724a1ac370536c0f02b908dc768230033c89035f
+Author: hoffiz <fernandezhoffiz@gmail.com>
+Date:   Fri Apr 27 16:34:45 2018 -0500
+
+    mass compile and build app
+
+commit 9ba6b6ef5b94ab4c392aa7d9ac2684276fcf971d
+Author: hoffiz <fernandezhoffiz@gmail.com>
+Date:   Fri Apr 27 16:28:33 2018 -0500
+
+    Deleting old code and upgrading to lastest version
+
+commit f8d83bda15fa80a42f8beb0c6f11a99b6ee73827
+Merge: eb58e7b d0d9060
+Author: Jaime Fernández <hoffiz@users.noreply.github.com>
+Date:   Thu Apr 26 20:38:21 2018 -0500
+
+    Merge pull request #1 from hoffiz/master
+    
+    Updating README and adding LICENSE
+
+commit d0d90601bf4fc8aea180e4e965c4ddd4454e93c0
+Author: Jaime Fernández <hoffiz@users.noreply.github.com>
+Date:   Thu Apr 19 16:59:03 2018 -0500
+
+    Update README.md
+
+commit 8fffaa2f5d6893ca4dcac747f8d8515917e0f9b2
+Author: Jaime Fernández <hoffiz@users.noreply.github.com>
+Date:   Thu Apr 19 16:58:18 2018 -0500
+
+    Update README.md
+
+commit e37382396fda62386ab2eaecfca2c409d93c3d76
+Merge: eb58e7b 843430e
+Author: Jaime Fernández <hoffiz@users.noreply.github.com>
+Date:   Thu Apr 19 16:56:51 2018 -0500
+
+    Merge pull request #1 from hoffiz/add-license-1
+    
+    Create LICENSE.md
+
+commit 843430ee625fb74503b17c6fa6109c9d3ac96826
+Author: Jaime Fernández <hoffiz@users.noreply.github.com>
+Date:   Thu Apr 19 16:56:14 2018 -0500
+
+    Create LICENSE.md
+
+commit eb58e7b527d8a8a834bfb87cce2d63938293c32b
+Author: unknown <nkirchne@NJKirchner-lt3.ni.corp.natinst.com>
+Date:   Fri Oct 17 11:35:10 2014 -0500
+
+    Fix Scrolling to use native scroll
+
+commit ebaf6ef0ee1c44690089be8e831f8ef119398d5b
+Author: unknown <nkirchne@NJKirchner-lt3.ni.corp.natinst.com>
+Date:   Fri Oct 17 11:11:36 2014 -0500
+
+    Relink the Springboard app and place Missing files
+
+commit aa1efeef4b227bf9bd7dcde3e7d1c7678f9cb15a
+Author: unknown <nkirchne@NJKirchner-lt3.ni.corp.natinst.com>
+Date:   Fri Oct 17 11:05:47 2014 -0500
+
+    add and re-link missing files
+
+commit 477d8b614df5449ed74006ecc73bbccc88c2ba45
+Author: dsmithni <daniel.smith@ni.com>
+Date:   Wed Jul 30 13:23:30 2014 -0500
+
+    change top description to match repo
+
+commit 2e59d8da44249f02d596132989a7ea653f11e75a
+Author: Daniel Smith <daniel.smith@ni.com>
+Date:   Wed Jul 30 13:14:36 2014 -0500
+
+    update readme, add license and style guide
+
+commit bd39fdd05a82ca882f20d81e94aed69eef67d7d3
+Author: NJKirchner <NJKirchner@gmail.com>
+Date:   Wed Jul 30 12:57:48 2014 -0500
+
+    Initial Commit
+
+commit 105f6114097cd6cc0584d32a08b73a52c1cdbdf5
+Author: NJKirchner <NJKirchner@gmail.com>
+Date:   Tue Jul 15 17:23:37 2014 -0500
+
+    Ad of the ignore file
+
+commit deb80addc9ea0feaa91ab48bb32790b26cc99200
+Author: NJKirchner <NJKirchner@gmail.com>
+Date:   Tue Jul 15 17:09:12 2014 -0500
+
+    Initial commit
