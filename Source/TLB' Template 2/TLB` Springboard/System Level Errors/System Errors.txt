@@ -1,0 +1,1168 @@
+Date/Time:
+5/1/2019 4:45:04 PM
+
+Error Information:
+Current State:
+Creating
+
+Completed Actions:
+Get Project References
+Open Original Library
+Save Copy Library
+Open Copied Library
+Rename TMPL VIs
+
+Action Causing Error:
+Rename TMPL Libraries
+
+Remaining Actions:
+Change State
+
+Destination State:
+Evaluate Build
+
+Call Chain:
+Springboard TLB`.lvlib
+>>Springboard TLB`.lvclass
+>>Springboard MAIN - App.vi
+DANG IT!
+
+
+Complete call chain
+>>
+     Springboard TLB`.lvlib
+>>Springboard TLB`.lvclass
+>>Springboard MAIN - App.vi
+
+Error Code:
+5000
+
+==========Date/Time:
+5/1/2019 4:42:15 PM
+
+Error Information:
+Current State:
+Creating
+
+Completed Actions:
+Get Project References
+Open Original Library
+Save Copy Library
+Open Copied Library
+Rename TMPL VIs
+
+Action Causing Error:
+Rename TMPL Libraries
+
+Remaining Actions:
+Change State
+
+Destination State:
+Evaluate Build
+
+Call Chain:
+Springboard TLB`.lvlib
+>>Springboard TLB`.lvclass
+>>Springboard MAIN - App.vi
+DANG IT!
+
+
+Complete call chain
+>>
+     Springboard TLB`.lvlib
+>>Springboard TLB`.lvclass
+>>Springboard MAIN - App.vi
+
+Error Code:
+5000
+
+==========Date/Time:
+5/1/2019 4:35:40 PM
+
+Error Information:
+Current State:
+Creating
+
+Completed Actions:
+Get Project References
+Open Original Library
+Save Copy Library
+Open Copied Library
+Rename TMPL VIs
+
+Action Causing Error:
+Rename TMPL Libraries
+
+Remaining Actions:
+Change State
+
+Destination State:
+Evaluate Build
+
+Call Chain:
+Springboard TLB`.lvlib
+>>Springboard TLB`.lvclass
+>>Springboard MAIN - App.vi
+DANG IT!
+
+
+Complete call chain
+>>
+     Springboard TLB`.lvlib
+>>Springboard TLB`.lvclass
+>>Springboard MAIN - App.vi
+
+Error Code:
+5000
+
+==========Date/Time:
+5/1/2019 4:34:46 PM
+
+Error Information:
+Current State:
+Creating
+
+Completed Actions:
+Get Project References
+Open Original Library
+Save Copy Library
+Open Copied Library
+Rename TMPL VIs
+
+Action Causing Error:
+Rename TMPL Libraries
+
+Remaining Actions:
+Change State
+
+Destination State:
+Evaluate Build
+
+Call Chain:
+Springboard TLB`.lvlib
+>>Springboard TLB`.lvclass
+>>Springboard MAIN - App.vi
+DANG IT!
+
+
+Complete call chain
+>>
+     Springboard TLB`.lvlib
+>>Springboard TLB`.lvclass
+>>Springboard MAIN - App.vi
+
+Error Code:
+5000
+
+==========Date/Time:
+5/1/2019 4:25:44 PM
+
+Error Information:
+Current State:
+Creating
+
+Completed Actions:
+Get Project References
+Open Original Library
+Save Copy Library
+Open Copied Library
+Rename TMPL VIs
+
+Action Causing Error:
+Rename TMPL Libraries
+
+Remaining Actions:
+Change State
+
+Destination State:
+Evaluate Build
+
+Call Chain:
+Springboard TLB`.lvlib
+>>Springboard TLB`.lvclass
+>>Springboard MAIN - App.vi
+DANG IT!
+
+
+Complete call chain
+>>
+     Springboard TLB`.lvlib
+>>Springboard TLB`.lvclass
+>>Springboard MAIN - App.vi
+
+Error Code:
+5000
+
+==========Date/Time:
+5/1/2019 4:00:05 PM
+
+Error Information:
+Current State:
+Creating
+
+Completed Actions:
+Get Project References
+Open Original Library
+Save Copy Library
+Open Copied Library
+Rename TMPL VIs
+
+Action Causing Error:
+Rename TMPL Libraries
+
+Remaining Actions:
+Change State
+
+Destination State:
+Evaluate Build
+
+Call Chain:
+Springboard TLB`.lvlib
+>>Springboard TLB`.lvclass
+>>Springboard MAIN - App.vi
+Did it work?
+
+
+Complete call chain
+>>
+     Springboard TLB`.lvlib
+>>Springboard TLB`.lvclass
+>>Springboard MAIN - App.vi
+
+Error Code:
+5000
+
+==========Date/Time:
+5/1/2019 3:25:05 PM
+
+Error Information:
+Current State:
+Creating
+
+Completed Actions:
+Get Project References
+Open Original Library
+Save Copy Library
+Open Copied Library
+Rename TMPL VIs
+
+Action Causing Error:
+Rename TMPL Libraries
+
+Remaining Actions:
+Change State
+
+Destination State:
+Evaluate Build
+
+Call Chain:
+Springboard TLB`.lvlib
+>>Springboard TLB`.lvclass
+>>Springboard MAIN - App.vi
+Did it work?
+
+
+Complete call chain
+>>
+     Springboard TLB`.lvlib
+>>Springboard TLB`.lvclass
+>>Springboard MAIN - App.vi
+
+Error Code:
+5000
+
+==========Date/Time:
+5/1/2019 3:24:06 PM
+
+Error Information:
+Current State:
+Creating
+
+Completed Actions:
+Get Project References
+Open Original Library
+
+Action Causing Error:
+Save Copy Library
+
+Remaining Actions:
+Open Copied Library
+Rename TMPL VIs
+Change State
+
+Destination State:
+Idle
+
+Call Chain:
+Delete in Springboard TLB`.lvlib
+>>Springboard TLB`.lvclass
+>>Springboard MAIN - App.vi
+C
+>>\Users\Public\Documents\Bob
+
+Error Code:
+6
+
+==========
+     Springboard TLB`.lvlib
+>>Springboard TLB`.lvclass
+>>Springboard MAIN - App.vi
+
+Error Code:
+5000
+
+==========Date/Time:
+5/1/2019 3:22:06 PM
+
+Error Information:
+Current State:
+Creating
+
+Completed Actions:
+Get Project References
+Open Original Library
+
+Action Causing Error:
+Save Copy Library
+
+Remaining Actions:
+Open Copied Library
+Rename TMPL VIs
+Change State
+
+Destination State:
+Idle
+
+Call Chain:
+Delete in Springboard TLB`.lvlib
+>>Springboard TLB`.lvclass
+>>Springboard MAIN - App.vi
+C
+>>\Users\Public\Documents\Bob 6
+
+Error Code:
+6
+
+==========     Springboard TLB`.lvlib
+>>Springboard TLB`.lvclass
+>>Springboard MAIN - App.vi
+
+Error Code:
+5000
+
+==========Date/Time:
+5/1/2019 3:20:21 PM
+
+Error Information:
+Current State:
+Creating
+
+Completed Actions:
+Get Project References
+Open Original Library
+Save Copy Library
+Open Copied Library
+Rename TMPL VIs
+
+Action Causing Error:
+Rename TMPL Libraries
+
+Remaining Actions:
+Change State
+
+Destination State:
+Evaluate Build
+
+Call Chain:
+Springboard TLB`.lvlib
+>>Springboard TLB`.lvclass
+>>Springboard MAIN - App.vi
+Did it work?
+
+
+Complete call chain
+>>
+     Springboard TLB`.lvlib
+>>Springboard TLB`.lvclass
+>>Springboard MAIN - App.vi
+
+Error Code:
+5000
+
+==========Date/Time:
+5/1/2019 3:19:06 PM
+
+Error Information:
+Current State:
+Creating
+
+Completed Actions:
+Get Project References
+Open Original Library
+
+Action Causing Error:
+Save Copy Library
+
+Remaining Actions:
+Open Copied Library
+Rename TMPL VIs
+Change State
+
+Destination State:
+Idle
+
+Call Chain:
+Delete in Springboard TLB`.lvlib
+>>Springboard TLB`.lvclass
+>>Springboard MAIN - App.vi
+C
+>>\Users\Public\Documents\Bob4
+
+Error Code:
+6
+
+==========
+     Springboard TLB`.lvlib
+>>Springboard TLB`.lvclass
+>>Springboard MAIN - App.vi
+
+Error Code:
+5000
+
+==========Date/Time:
+5/1/2019 3:15:00 PM
+
+Error Information:
+Current State:
+Creating
+
+Completed Actions:
+Get Project References
+Open Original Library
+
+Action Causing Error:
+Save Copy Library
+
+Remaining Actions:
+Open Copied Library
+Rename TMPL VIs
+Change State
+
+Destination State:
+Idle
+
+Call Chain:
+Delete in Springboard TLB`.lvlib
+>>Springboard TLB`.lvclass
+>>Springboard MAIN - App.vi
+C
+>>\Users\Public\Documents\Bob 3
+
+Error Code:
+6
+
+==========     Springboard TLB`.lvlib
+>>Springboard TLB`.lvclass
+>>Springboard MAIN - App.vi
+
+Error Code:
+5000
+
+==========Date/Time:
+5/1/2019 3:12:37 PM
+
+Error Information:
+Current State:
+Creating
+
+Completed Actions:
+Get Project References
+Open Original Library
+
+Action Causing Error:
+Save Copy Library
+
+Remaining Actions:
+Open Copied Library
+Rename TMPL VIs
+Change State
+
+Destination State:
+Idle
+
+Call Chain:
+Delete in Springboard TLB`.lvlib
+>>Springboard TLB`.lvclass
+>>Springboard MAIN - App.vi
+C
+>>\Users\Public\Documents\bob2
+
+Error Code:
+6
+
+==========
+     Springboard TLB`.lvlib
+>>Springboard TLB`.lvclass
+>>Springboard MAIN - App.vi
+
+Error Code:
+5000
+
+==========Date/Time:
+5/1/2019 3:10:49 PM
+
+Error Information:
+Current State:
+Creating
+
+Completed Actions:
+
+
+Action Causing Error:
+Rename TMPL VIs
+
+Remaining Actions:
+Open Copied Library
+Save Copy Library
+Open Original Library
+Get Project References
+Change State
+
+Destination State:
+Idle
+
+Call Chain:
+Delete in Springboard TLB`.lvlib
+>>Springboard TLB`.lvclass
+>>Springboard MAIN - App.vi
+C
+>>\Users\Public\Documents\bob1
+
+Error Code:
+6
+
+==========    Springboard TLB`.lvlib
+>>Springboard TLB`.lvclass
+>>Springboard MAIN - App.vi
+
+Error Code:
+5000
+
+==========Date/Time:
+5/1/2019 3:08:01 PM
+
+Error Information:
+Current State:
+Creating
+
+Completed Actions:
+
+
+Action Causing Error:
+Rename TMPL VIs
+
+Remaining Actions:
+Open Copied Library
+Save Copy Library
+Open Original Library
+Get Project References
+Change State
+
+Destination State:
+Idle
+
+Call Chain:
+Delete in Springboard TLB`.lvlib
+>>Springboard TLB`.lvclass
+>>Springboard MAIN - App.vi
+C
+>>\Users\Public\Documents\bob
+
+Error Code:
+6
+
+==========     Springboard TLB`.lvlib
+>>Springboard TLB`.lvclass
+>>Springboard MAIN - App.vi
+
+Error Code:
+5000
+
+==========Date/Time:
+5/1/2019 3:02:09 PM
+
+Error Information:
+Current State:
+Creating
+
+Completed Actions:
+
+
+Action Causing Error:
+Rename TMPL VIs
+
+Remaining Actions:
+Open Copied Library
+Save Copy Library
+Open Original Library
+Get Project References
+Change State
+
+Destination State:
+Idle
+
+Call Chain:
+Delete in Springboard TLB`.lvlib
+>>Springboard TLB`.lvclass
+>>Springboard MAIN - App.vi
+C
+>>\Users\Public\Documents\bob
+
+Error Code:
+6
+
+==========     Springboard TLB`.lvlib
+>>Springboard TLB`.lvclass
+>>Springboard MAIN - App.vi
+
+Error Code:
+5000
+
+==========Date/Time:
+5/1/2019 1:00:10 PM
+
+Error Information:
+Current State:
+Creating
+
+Completed Actions:
+Get Project References
+Open Original Library
+Save Copy Library
+Open Copied Library
+Rename TMPL VIs
+
+Action Causing Error:
+Rename TMPL Libraries
+
+Remaining Actions:
+Change State
+
+Destination State:
+Evaluate Build
+
+Call Chain:
+Springboard TLB`.lvlib
+>>Springboard TLB`.lvclass
+>>Springboard MAIN - App.vi
+Did it work?
+
+
+Complete call chain
+>>
+     Springboard TLB`.lvlib
+>>Springboard TLB`.lvclass
+>>Springboard MAIN - App.vi
+
+Error Code:
+5000
+
+==========Date/Time:
+5/1/2019 12:58:29 PM
+
+Error Information:
+Current State:
+Creating
+
+Completed Actions:
+Get Project References
+Open Original Library
+Save Copy Library
+Open Copied Library
+
+Action Causing Error:
+Rename TMPL VIs
+
+Remaining Actions:
+Rename TMPL Libraries
+Change State
+
+Destination State:
+Evaluate Build
+
+Call Chain:
+Springboard TLB`.lvlib
+>>Springboard TLB`.lvclass
+>>Springboard MAIN - App.vi
+Did it work?
+
+
+Complete call chain
+>>
+     Springboard TLB`.lvlib
+>>Springboard TLB`.lvclass
+>>Springboard MAIN - App.vi
+
+Error Code:
+5000
+
+==========Date/Time:
+5/1/2019 12:56:19 PM
+
+Error Information:
+Current State:
+Creating
+
+Completed Actions:
+Get Project References
+Open Original Library
+
+Action Causing Error:
+Save Copy Library
+
+Remaining Actions:
+Open Copied Library
+Rename TMPL VIs
+Rename TMPL Libraries
+Change State
+
+Destination State:
+Evaluate Build
+
+Call Chain:
+Springboard TLB`.lvlib
+>>Springboard TLB`.lvclass
+>>Springboard MAIN - App.vi
+Did it work?
+
+
+Complete call chain
+>>
+     Springboard TLB`.lvlib
+>>Springboard TLB`.lvclass
+>>Springboard MAIN - App.vi
+
+Error Code:
+5000
+
+==========Date/Time:
+5/1/2019 12:54:34 PM
+
+Error Information:
+Current State:
+Creating
+
+Completed Actions:
+Get Project References
+Open Original Library
+
+Action Causing Error:
+Save Copy Library
+
+Remaining Actions:
+Open Copied Library
+Rename TMPL VIs
+Rename TMPL Libraries
+Change State
+
+Destination State:
+Evaluate Build
+
+Call Chain:
+Springboard TLB`.lvlib
+>>Springboard TLB`.lvclass
+>>Springboard MAIN - App.vi
+Did it work?
+
+
+Complete call chain
+>>
+     Springboard TLB`.lvlib
+>>Springboard TLB`.lvclass
+>>Springboard MAIN - App.vi
+
+Error Code:
+5000
+
+==========Date/Time:
+5/1/2019 12:51:31 PM
+
+Error Information:
+Current State:
+Creating
+
+Completed Actions:
+Get Project References
+Open Original Library
+
+Action Causing Error:
+Save Copy Library
+
+Remaining Actions:
+Open Copied Library
+Rename TMPL VIs
+Rename TMPL Libraries
+Change State
+
+Destination State:
+Evaluate Build
+
+Call Chain:
+Springboard TLB`.lvlib
+>>Springboard TLB`.lvclass
+>>Springboard MAIN - App.vi
+Did it work?
+
+
+Complete call chain
+>>
+     Springboard TLB`.lvlib
+>>Springboard TLB`.lvclass
+>>Springboard MAIN - App.vi
+
+Error Code:
+5000
+
+==========Date/Time:
+5/1/2019 12:44:16 PM
+
+Error Information:
+Current State:
+Creating
+
+Completed Actions:
+Get Project References
+
+Action Causing Error:
+Open Original Library
+
+Remaining Actions:
+Save Copy Library
+Open Copied Library
+Rename TMPL VIs
+Rename TMPL Libraries
+Change State
+
+Destination State:
+Evaluate Build
+
+Call Chain:
+Invoke Node in Springboard TLB`.lvlib
+>>Springboard TLB`.lvclass
+>>Springboard MAIN - App.vi
+
+Method Name
+>> Library
+>>Open
+
+Error Code:
+7
+
+==========Date/Time:
+5/1/2019 12:39:20 PM
+
+Error Information:
+Current State:
+Creating
+
+Completed Actions:
+Get Project References
+
+Action Causing Error:
+Open Original Library
+
+Remaining Actions:
+Save Copy Library
+Open Copied Library
+Rename TMPL VIs
+Rename TMPL Libraries
+Change State
+
+Destination State:
+Evaluate Build
+
+Call Chain:
+Invoke Node in Springboard TLB`.lvlib
+>>Springboard TLB`.lvclass
+>>Springboard MAIN - App.vi
+
+Method Name
+>> Library
+>>Open
+
+Error Code:
+7
+
+==========Date/Time:
+5/1/2019 12:38:39 PM
+
+Error Information:
+Current State:
+Creating
+
+Completed Actions:
+Get Project References
+
+Action Causing Error:
+Open Original Library
+
+Remaining Actions:
+Save Copy Library
+Open Copied Library
+Rename TMPL VIs
+Rename TMPL Libraries
+Change State
+
+Destination State:
+Evaluate Build
+
+Call Chain:
+Invoke Node in Springboard TLB`.lvlib
+>>Springboard TLB`.lvclass
+>>Springboard MAIN - App.vi
+
+Method Name
+>> Library
+>>Open
+
+Error Code:
+7
+
+==========Date/Time:
+5/1/2019 12:22:36 PM
+
+Error Information:
+Current State:
+Creating
+
+Completed Actions:
+Get Project References
+
+Action Causing Error:
+Open Original Library
+
+Remaining Actions:
+Save Copy Library
+Open Copied Library
+Rename TMPL VIs
+Rename TMPL Libraries
+Change State
+
+Destination State:
+Evaluate Build
+
+Call Chain:
+Invoke Node in Springboard TLB`.lvlib
+>>Springboard TLB`.lvclass
+>>Springboard MAIN - App.vi
+
+Method Name
+>> Library
+>>Open
+
+Error Code:
+7
+
+==========Date/Time:
+5/1/2019 12:20:39 PM
+
+Error Information:
+Current State:
+Creating
+
+Completed Actions:
+Get Project References
+
+Action Causing Error:
+Open Original Library
+
+Remaining Actions:
+Save Copy Library
+Open Copied Library
+Rename TMPL VIs
+Rename TMPL Libraries
+Change State
+
+Destination State:
+Evaluate Build
+
+Call Chain:
+Invoke Node in Springboard TLB`.lvlib
+>>Springboard TLB`.lvclass
+>>Springboard MAIN - App.vi
+
+Method Name
+>> Library
+>>Open
+
+Error Code:
+7
+
+==========Date/Time:
+5/1/2019 12:07:10 PM
+
+Error Information:
+Current State:
+Creating
+
+Completed Actions:
+Get Project References
+
+Action Causing Error:
+Open Original Library
+
+Remaining Actions:
+Save Copy Library
+Open Copied Library
+Rename TMPL VIs
+Rename TMPL Libraries
+Change State
+
+Destination State:
+Evaluate Build
+
+Call Chain:
+Invoke Node in Springboard TLB`.lvlib
+>>Springboard TLB`.lvclass
+>>Springboard MAIN - App.vi
+
+Method Name
+>> Library
+>>Open
+
+Error Code:
+7
+
+==========Date/Time:
+5/1/2019 12:02:20 PM
+
+Error Information:
+Current State:
+Creating
+
+Completed Actions:
+Get Project References
+
+Action Causing Error:
+Open Original Library
+
+Remaining Actions:
+Save Copy Library
+Open Copied Library
+Rename TMPL VIs
+Rename TMPL Libraries
+Change State
+
+Destination State:
+Evaluate Build
+
+Call Chain:
+Invoke Node in Springboard TLB`.lvlib
+>>Springboard TLB`.lvclass
+>>Springboard MAIN - App.vi
+
+Method Name
+>> Library
+>>Open
+
+Error Code:
+7
+
+==========Date/Time:
+5/1/2019 11:59:15 AM
+
+Error Information:
+Current State:
+Creating
+
+Completed Actions:
+Get Project References
+
+Action Causing Error:
+Open Original Library
+
+Remaining Actions:
+Save Copy Library
+Open Copied Library
+Rename TMPL VIs
+Rename TMPL Libraries
+Change State
+
+Destination State:
+Evaluate Build
+
+Call Chain:
+Invoke Node in Springboard TLB`.lvlib
+>>Springboard TLB`.lvclass
+>>Springboard MAIN - App.vi
+
+Method Name
+>> Library
+>>Open
+
+Error Code:
+7
+
+==========Date/Time:
+5/1/2019 11:33:55 AM
+
+Error Information:
+Current State:
+<Startup>
+
+Completed Actions:
+INIT::Load Application Base Path
+INIT::Initialize Error Handler
+INIT::Register User Parameters
+INIT::Project Ring Initialize
+Cache User Parameters
+CFG::Load Station Configuration
+
+Action Causing Error:
+INIT::FP Values
+
+Remaining Actions:
+Change State
+
+Destination State:
+Idle
+
+Call Chain:
+NI_LVConfig.lvlib
+>>Load.vi
+
+Error Code:
+7
+
+==========Date/Time:
+4/30/2019 4:56:12 PM
+
+Error Information:
+Current State:
+Creating
+
+Completed Actions:
+Get Project References
+Open Original Library
+
+Action Causing Error:
+Save Copy Library
+
+Remaining Actions:
+Open Copied Library
+Rename TMPL VIs
+Rename TMPL Libraries
+Change State
+
+Destination State:
+Evaluate Build
+
+Call Chain:
+Invoke Node in Springboard TLB`.lvlib
+>>Springboard TLB`.lvclass
+>>Springboard MAIN - App.vi
+
+Error Code:
+1357
+
+==========

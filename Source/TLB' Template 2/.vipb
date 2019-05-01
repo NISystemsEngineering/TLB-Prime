@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2018" Created_Date="2013-08-24 13:17:47" Modified_Date="2019-04-30 12:20:35" Creator="aryan" Comments="" ID="082028117efba0de0df6f2bd960d5963">
+<VI_Package_Builder_Settings Version="2018" Created_Date="2013-08-24 13:17:47" Modified_Date="2019-05-01 16:55:48" Creator="aryan" Comments="" ID="507c4486ecc5c96015a377001f668b99">
   <Library_General_Settings>
     <Package_File_Name>national_instruments_tlb`</Package_File_Name>
-    <Library_Version>1.0.0.26</Library_Version>
+    <Library_Version>1.0.0.28</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..\objects</Library_Output_Folder>
@@ -137,7 +137,7 @@
         <Namespace/>
       </Namespace_Overrides>
     </Source_Files>
-    <License_Agreement_Filepath>..\..\..\..\..\..\..\..\..\Z\VMware Share\NI Software License Terms (Sample Code) 20160501.txt</License_Agreement_Filepath>
+    <License_Agreement_Filepath>Z:\VMware Share\NI Software License Terms (Sample Code) 20160501.txt</License_Agreement_Filepath>
     <Licensing_and_Activation>
       <License_LF_file_path/>
       <Licensed_library_file_path/>

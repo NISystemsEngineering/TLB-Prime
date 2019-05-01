@@ -41,6 +41,7 @@
 			<Item Name="Find and Rename Libraries.vi" Type="VI" URL="../Application Components/Springboard/Find and Rename Libraries.vi"/>
 			<Item Name="Find and Rename Folders.vi" Type="VI" URL="../Application Components/Springboard/Find and Rename Folders.vi"/>
 			<Item Name="Get Recursive Owned VIs List.vi" Type="VI" URL="../Application Components/Springboard/Get Recursive Owned VIs List.vi"/>
+			<Item Name="Validate User Parameters.vi" Type="VI" URL="../Application Components/Springboard/Validate User Parameters.vi"/>
 		</Item>
 		<Item Name="Springboard Station Configuration.lvclass" Type="LVClass" URL="../Application Components/Configuration/Springboard Station Configuration.lvclass"/>
 		<Item Name="Springboard Trigger API.lvlib" Type="Library" URL="../Application Components/Trigger API/Springboard Trigger API.lvlib"/>
