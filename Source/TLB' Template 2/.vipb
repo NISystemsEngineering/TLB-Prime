@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2018" Created_Date="2013-08-24 13:17:47" Modified_Date="2019-05-01 16:55:48" Creator="aryan" Comments="" ID="507c4486ecc5c96015a377001f668b99">
+<VI_Package_Builder_Settings Version="2018" Created_Date="2013-08-24 13:17:47" Modified_Date="2019-05-09 11:38:33" Creator="aryan" Comments="" ID="0a2d0ea3cb4686949f0e147447b26ab4">
   <Library_General_Settings>
     <Package_File_Name>national_instruments_tlb`</Package_File_Name>
-    <Library_Version>1.0.0.28</Library_Version>
+    <Library_Version>1.0.0.29</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..\objects</Library_Output_Folder>
