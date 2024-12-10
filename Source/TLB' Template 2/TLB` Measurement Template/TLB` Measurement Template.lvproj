@@ -75,10 +75,10 @@
 				<Property Name="Destination[3].path" Type="Path">../builds/System Level Errors</Property>
 				<Property Name="Destination[3].path.type" Type="Str">relativeToProject</Property>
 				<Property Name="DestinationCount" Type="Int">4</Property>
-				<Property Name="Source[0].itemID" Type="Str">{44AE5A44-9DEA-4F11-9FE3-46F235A4CE66}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{7E6FED43-7711-4099-BF16-0622B27D838A}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
-				<Property Name="Source[1].itemID" Type="Ref">/My Computer/TLB` Template.lvlib/TLB` - {TMPL}.lvclass/MAIN - {TMPL} App.vi</Property>
+				<Property Name="Source[1].itemID" Type="Ref">/My Computer/TLB` Template.lvlib/{TMPL} TLB`.lvclass/{TMPL} MAIN - App.vi</Property>
 				<Property Name="Source[1].sourceInclusion" Type="Str">TopLevel</Property>
 				<Property Name="Source[1].type" Type="Str">VI</Property>
 				<Property Name="SourceCount" Type="Int">2</Property>

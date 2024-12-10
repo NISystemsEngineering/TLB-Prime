@@ -1,0 +1,4 @@
+# Versioning
+When adding new APIs to the SDK, developers should:
+- Should update the SDK API Version on the block diagram of Create Sesion.vi. See the comments on the block diagram for further information regarding versioning. This only needs to be done once per release where a new API is added.
+- For each new API, the Call Library Node used to call into the interop dll should be configured to specify a path on the diagram. The path input should then be wired to a path constant which only contains the name of the dll without a directory information. This pushes any errors due to missing entry points to a runtime error instead of a load time error. This then allows us to return better errors than just the VI isn't executable.
