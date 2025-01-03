@@ -1,9 +1,11 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
-<Library LVVersion="21008000">
+<Library LVVersion="23008000">
+	<Property Name="NI.Lib.ContainingLib" Type="Str">TLB` InstStu GPlugin Template.lvlib</Property>
+	<Property Name="NI.Lib.ContainingLibPath" Type="Str">../../../TLB` InstStu GPlugin Template.lvlib</Property>
 	<Property Name="NI.Lib.HelpPath" Type="Str"></Property>
-	<Property Name="NI.Lib.Icon" Type="Bin">)1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!*.!!!*Q(C=\:3^41."%%9`%!'J/Q",S!6-2)DE&amp;NT#N/!5*#/ZB3G!R"UABQ1EUY)D=L&gt;QP.M&lt;WQAB("AE!H:PTHP@\-[]`@&amp;+L6R+&amp;_K/F=GXZ7@]8&gt;`I*M/\N9&lt;HY"`#\$M@F-0YX?@A\T\&amp;H_R$@$H_E0[L`+@-\VD2N_8@`_]`T8`]_.U@0[3`7[3T2IIF&amp;JBDVG&lt;8*8KC*XKC*XKC"XKA"XKA"XKA/\KD/\KD/\KD'\KB'\KB'\KBNYIO&gt;+%,H66*EC?*EK"*A+1T+%J?#5`#E`!E0(QKY5FY%J[%*_'BCR+?B#@B38A3(I9JY5FY%J[%*_%B6#0*6N(B38A)LY!HY!FY!J[!BZ1+?!+!)&amp;E1/!A#BA*HU!BY!J[!B[9#HI!HY!FY!B\=#HA#HI!HY!FY'.*7*2J.8^(B)9Q=(I@(Y8&amp;Y("Z#S_&amp;R?"Q?B]@B):U=(I@(A8!3/M&amp;"E$0)[?"]/$Q/$T^S?"Q?B]@B=8BQN2XSND)^46`2Y4&amp;Y$"[$R_!R?!ABA]@A-8A-(I/(M$*Y$"[$R_!R?%AFA]@A-8A-%#-J[75%-Q9;H1T"Y/&amp;JJ]8;,E5DM6&lt;LLTE=6.5"6"UMV9&amp;2(146"KMW4L5BKI67,;"K96146EV%";B+L!KI[KAN\QWWRF&lt;9%JND-WS+D&lt;&amp;20`3(/W[X7WUW'[X8;[V7+SW83]XH=]VG-UWH5YX(9YV'I`VN&gt;55&gt;SNHO8LKHP&lt;0&amp;W`0VY]8.X?,FZG&amp;R^84X_(J\P@.^\HOK$@@38\A&lt;&gt;;\OQT80'LU$B.*T^!!!!!!</Property>
+	<Property Name="NI.Lib.Icon" Type="Bin">)Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!*.!!!*Q(C=\:3^41."%%9`%!'J/Q",S!6-2)DE&amp;NT#N/!5*#/ZB3G!R"UABQ1EUY)D=L&gt;QP.M&lt;WQAB("AE!H:PTHP@\-[]`@&amp;+L6R+&amp;_K/F=GXZ7@]8&gt;`I*M/\N9&lt;HY"`#\$M@F-0YX?@A\T\&amp;H_R$@$H_E0[L`+@-\VD2N_8@`_]`T8`]_.U@0[3`7[3T2IIF&amp;JBDVG&lt;8*8KC*XKC*XKC"XKA"XKA"XKA/\KD/\KD/\KD'\KB'\KB'\KBNYIO&gt;+%,H66*EC?*EK"*A+1T+%J?#5`#E`!E0(QKY5FY%J[%*_'BCR+?B#@B38A3(I9JY5FY%J[%*_%B6#0*6N(B38A)LY!HY!FY!J[!BZ1+?!+!)&amp;E1/!A#BA*HU!BY!J[!B[9#HI!HY!FY!B\=#HA#HI!HY!FY'.*7*2J.8^(B)9Q=(I@(Y8&amp;Y("Z#S_&amp;R?"Q?B]@B):U=(I@(A8!3/M&amp;"E$0)[?"]/$Q/$T^S?"Q?B]@B=8BQN2XSND)^46`2Y4&amp;Y$"[$R_!R?!ABA]@A-8A-(I/(M$*Y$"[$R_!R?%AFA]@A-8A-%#-J[75%-Q9;H1T"Y/&amp;JJ]8;,E5DM6&lt;LLTE=6.5"6"UMV9&amp;2(146"KMW4L5BKI67,;"K96146EV%";B+L!KI[KAN\QWWRF&lt;9%JND-WS+D&lt;&amp;20`3(/W[X7WUW'[X8;[V7+SW83]XH=]VG-UWH5YX(9YV'I`VN&gt;55&gt;SNHO8LKHP&lt;0&amp;W`0VY]8.X?,FZG&amp;R^84X_(J\P@.^\HOK$@@38\A&lt;&gt;;\OQT80'LU$B.*T^!!!!!!</Property>
 	<Property Name="NI.Lib.LocalName" Type="Str">InstrumentStudio Plugin SDK</Property>
-	<Property Name="NI.Lib.SourceVersion" Type="Int">553680896</Property>
+	<Property Name="NI.Lib.SourceVersion" Type="Int">587235328</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Property Name="NI.SortType" Type="Int">3</Property>

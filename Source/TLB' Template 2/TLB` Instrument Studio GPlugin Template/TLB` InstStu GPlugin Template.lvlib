@@ -37,6 +37,11 @@
 			<Item Name="Create APP UI Display Events.vi" Type="VI" URL="../Application Components/UI/Create APP UI Display Events.vi"/>
 			<Item Name="Destroy APP UI Display Events.vi" Type="VI" URL="../Application Components/UI/Destroy APP UI Display Events.vi"/>
 			<Item Name="_UI APP Event References.ctl" Type="VI" URL="../Application Components/UI/_UI APP Event References.ctl"/>
+			<Item Name="ScrollZoomGraphChart.lvclass" Type="LVClass" URL="../Application Components/UI/ScrollZoomGraphChart/ScrollZoomGraphChart.lvclass"/>
+		</Item>
+		<Item Name="InstStuGPluginSDK" Type="Folder">
+			<Item Name="NationalInstruments.VIHost.Interop.dll" Type="Document" URL="../Application Components/InstStuGPluginSDK/NationalInstruments.VIHost.Interop.dll"/>
+			<Item Name="InstrumentStudio Plugin SDK.lvlib" Type="Library" URL="../Application Components/InstStuGPluginSDK/InstrumentStudio Plugin SDK.lvlib"/>
 		</Item>
 		<Item Name="{TMPL} Station Configuration.lvclass" Type="LVClass" URL="../Application Components/Configuration/{TMPL} Station Configuration.lvclass"/>
 		<Item Name="{TMPL} Trigger API.lvlib" Type="Library" URL="../Application Components/Trigger API/{TMPL} Trigger API.lvlib"/>
